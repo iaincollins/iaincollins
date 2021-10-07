@@ -1,6 +1,6 @@
 # About
 
-I'm Software Developer, Systems Engineer and Engineering Manager with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
+I'm a Software Developer, Systems Engineer and Engineering Manager with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
 
 I've spent most of my career working for large internet and media companies, designing and building everything from websites and services, to infrastructure (core network devices and device firmware and physical infrastructure) to desktop applications for Mac, Windows and Linux and for mobile devices, using dozens of programming languages, operating systems and hardware platforms.
 
