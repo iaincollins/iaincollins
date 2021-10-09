@@ -18,7 +18,7 @@ I still design and build things, but I'm usually contributing even more when I'm
 
 # 🛠 Projects
 
-Some of the side projects I've been working on more recently.
+Some of the side projects I've been working on recently.
 
 ## 🔑  [NextAuth.js](https://next-auth.js.org)
 
@@ -56,11 +56,10 @@ This tool is useful for any website but especially useful for news and media org
 
 ## 👾  EDV _(working title)_
 
-A cross platform video game companion app for Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information( event driven and socket based) by combining in-game API and third party APIs.
+Cross platform video game companion app for Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information( event driven and socket based) by combining in-game API and third party APIs.
 
-I haven't released a binary or the source yet, but here are some teaser shots:
+It's still a work in progress I haven't released a binary or the source yet, but have released a couple of videos. Here are some teaser shots:
 
-<img src="https://user-images.githubusercontent.com/595695/136658802-ba3ed80e-2180-4951-b55c-0821ba91b150.jpeg" width="47.9%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/136659037-659e102c-f417-483e-89f2-6fb40826507a.jpeg" width="47.9%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/136658802-ba3ed80e-2180-4951-b55c-0821ba91b150.jpeg" width="40%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/136659037-659e102c-f417-483e-89f2-6fb40826507a.jpeg" width="40%" align="left">
 
-It's been a few years since I last worked on a video game related project, it's nice to revist that space again (pun not intended).
