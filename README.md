@@ -1,24 +1,22 @@
-# 🛈 About
+# ℹ️ About
 
-I love designing and building things and helping organizations create and grow amazing engineering teams.
+_I love designing and building things and helping organizations create and grow amazing engineering teams._
 
 I'm a Software Developer, Systems Engineer and Engineering Manager with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
 
-I've spent most of my career working at internet and media companies, designing and building everything from websites and services to infrastructure (core networks, device firmware, custom kernels and extensions and physical infrastructure; servers, switching and storage) to desktop applications for macOS, Windows and Linux and for mobile devices, using dozens of programming languages, operating systems and hardware platforms.
+I've worked in startups (and founded companies) but have spent most of my career working at internet and media companies, designing and building everything from websites and services to infrastructure (core networks, device firmware, custom kernels and extensions and physical infrastructure; servers, switching and storage) to desktop applications for macOS, Windows and Linux and for mobile devices, using dozens of programming languages, operating systems and hardware platforms.
 
-I enjoy supporting and growing engineers and working collaboratively in cross functional teams to design, build and support products and services. I'm able to zoom in to provide practical, hands-on support with software development and system design - and to step back and provide support and strategic advice for engineering and product teams and help them optimise for delivery.
+I enjoy supporting and growing engineers and working collaboratively in cross functional teams to design, build and support products and services. I'm able to zoom in to provide practical, hands-on support with software development and system design if needed - and to step back and provide support and strategic advice for engineering and product teams and help them optimise for delivery.
 
 # 💼 Recent Work
 
 Most of my recent work has been leading teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach (the UK's largest commercial news publisher) leading teams working on in-house and competitor analytics and machine learning powered recommendations.
 
-I've founded two companies and helped serveral get started and am familar with everything that goes with that - from fundrasing, and pitching to prototyping, scaling and project delivery.
-
 I still design and build things, but I'm usually contributing even more when I'm able to support engineering teams, product owners, delivery managers and stakeholders/customers to deliver great products and services.
 
 # 🛠 Projects
 
-Some of the side projects I've been working on recently.
+Some of the side projects I've built recently.
 
 ## 🔑  [NextAuth.js](https://next-auth.js.org)
 
@@ -36,7 +34,7 @@ To ensure it remains open source, collaborative and independent it has been spun
 
 _Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
 
-<img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="300" align="left">
+<img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="300" align="right">
 
 Designed for news and media organisations, Mercury allows teams to to upload, edit, transcode, transcribe and translate audio and video files (in a wide range of formats, including large, unprocessed files) from anywhere in the world on any web enabled device (including a smartphone) and share them in a secure and searchable way with colleagues.
 
@@ -56,7 +54,7 @@ This tool is useful for any website but especially useful for news and media org
 
 ## 👾  EDV _(working title)_
 
-Cross platform video game companion app for Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information( event driven and socket based) by combining in-game API and third party APIs.
+Cross platform video game companion app for Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the Elite Dangerous API with third party APIs and agumenting them with additional contextual data to inform, entertain and guide players.
 
 It's still a work in progress. I haven't released a binary or the source yet, but have released a couple of videos. Some teaser shots:
 
