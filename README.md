@@ -56,8 +56,8 @@ This tool is useful for any website but especially useful for news and media org
 
 Cross platform video game companion app for Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the Elite Dangerous API with third party APIs and agumenting them with additional contextual data to inform, entertain and guide players.
 
-It's still a work in progress. I haven't released a binary or the source yet, but have released a couple of videos. Some teaser shots:
+It's still a work in progress. I haven't released a binary or the source yet, but have released a few screenshots and a couple of videos.
 
-<img src="https://user-images.githubusercontent.com/595695/136658802-ba3ed80e-2180-4951-b55c-0821ba91b150.jpeg" width="40%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137003245-a5370031-cda5-49f1-bea4-819fa87ec177.png" width="40%" align="left">
 <img src="https://user-images.githubusercontent.com/595695/136659037-659e102c-f417-483e-89f2-6fb40826507a.jpeg" width="40%" align="left">
 
