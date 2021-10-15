@@ -58,6 +58,8 @@ Cross platform video game companion app for Windows, Mac, Andriod and iOS device
 
 It's still a work in progress. I haven't released a binary or the source yet, but have released a few screenshots and a couple of videos.
 
-<img src="https://user-images.githubusercontent.com/595695/137003245-a5370031-cda5-49f1-bea4-819fa87ec177.png" width="40%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/136659037-659e102c-f417-483e-89f2-6fb40826507a.jpeg" width="40%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137490706-4772ba94-904e-47f4-8bf0-759d3ca51287.png" width="20%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137490731-d6622f74-1b39-49ad-8930-e31d0dec9095.png" width="20%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137490681-2558f086-d9b4-4c46-882f-1bbdec8798c8.png" width="20%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/136659037-659e102c-f417-483e-89f2-6fb40826507a.jpeg" width="20%" align="left">
 
