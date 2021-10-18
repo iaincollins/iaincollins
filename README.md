@@ -1,22 +1,20 @@
 # ℹ️ About
 
-_I love designing and building things and helping organizations create and grow amazing engineering teams._
+I'm an engineering leader with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
 
-I'm a Software Developer, Systems Engineer and Engineering Manager with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
+I've worked in startups and founded companies but have spent most of my career in internet and media companies, designing and building everything from websites and services to infrastructure (core networks, device firmware, custom kernels and extensions and physical infrastructure; servers, switching and storage) to desktop applications for macOS, Windows and Linux and for mobile devices, working with dozens of programming languages, platforms, operating systems and a wide range of hardware.
 
-I've worked in startups (and founded companies) but have spent most of my career working at internet and media companies, designing and building everything from websites and services to infrastructure (core networks, device firmware, custom kernels and extensions and physical infrastructure; servers, switching and storage) to desktop applications for macOS, Windows and Linux and for mobile devices, using dozens of programming languages, operating systems and hardware platforms.
-
-I enjoy supporting and growing engineers and working collaboratively in cross functional teams to design, build and support products and services. I'm able to zoom in to provide practical, hands-on support with software development and system design if needed - and to step back and provide support and strategic advice for engineering and product teams and help them optimise for delivery.
+I enjoy supporting and growing engineers and working collaboratively in cross functional teams to design, build and support products and services. I'm able to zoom in to provide practical, hands-on support with software development and system design, which allows me to leverage practical experience to anticipate potential pitfalls, empathically relate to teams and to articulate commercial pressures and technical problems in ways that resonate with teams and stakeholders. I have the broader commercial experience to be able to step back and provide support and strategic advice for engineering and product teams and help them optimise for delivery and value.
 
 # 💼 Recent Work
 
-Most of my recent work has been leading teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach (the UK's largest commercial news publisher) leading teams working on in-house and competitor analytics and machine learning powered recommendations.
+My recent work has been leading multiple teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach/TrinityMirror (the UK's largest commercial news publisher) on engineering culture, ways of working and overseeing replatforming, analytics and machine learning projects.
 
-I still design and build things, but I'm usually contributing even more when I'm able to support engineering teams, product owners, delivery managers and stakeholders/customers to deliver great products and services.
+I still enjoy designing and building things, but I'm usually contributing more leading and support engineering teams, product owners, delivery managers and stakeholders/customers in delivering great products and services.
 
 # 🛠 Projects
 
-Some of the side projects I've built recently.
+A random selection of some the side projects I've created more recently.
 
 ## 🔑  [NextAuth.js](https://next-auth.js.org)
 
@@ -48,13 +46,19 @@ _Library and command line tool to help inspect and test Structured Data._
 
 <img src="https://user-images.githubusercontent.com/595695/136657786-ec1f4db5-433b-41d0-b276-50469e3e9cb0.png" width="170" align="left">
 
-Designed to fill a gap in tooling in Google Lighthouse and Google's own Stuctured Data Testing Tool, by providing an extendible command line tool that includes out of the box support for checking both Schema.org entities and social media markup.
+Designed to fill a gap in tooling in Google Lighthouse and Google's own Stuctured Data Testing Tool, by providing an extendible command line tool and API that includes out of the box support for checking both Schema.org entities and social media markup.
 
 This tool is useful for any website but especially useful for news and media organizations as ensuring markup quality can have a significant impact on taffic coming from Google News and Google Discover as well as organic traffic.
 
-## 👾  EDV _(working title)_
+## 🧰  [Table to JSON](https://www.npmjs.com/package/tabletojson)
 
-Cross platform video game companion app for Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the Elite Dangerous API with third party APIs and agumenting them with additional contextual data to inform, entertain and guide players.
+_Library and command line tool to extract data from webpages._
+
+A library useful for data scraping, origionally created to support work on civic tech and data journalism. It is [is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), including other high level scrapers. Table To JSON is now maintained by @maugenst. 
+
+## 👾 ICARUS for Elite Dangerous
+
+ICARUS  is a cross platform companion app for the game Elite Dangerous. It runs on Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the Elite Dangerous API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
 
 It's still a work in progress. I haven't released a binary or the source yet, but have released a few screenshots and a couple of videos.
 
