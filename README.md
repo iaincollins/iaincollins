@@ -42,7 +42,7 @@ It supports integration with multiple specialist transcription, translation and 
 
 _Library and command line tool to help inspect and test Structured Data._
 
-<img src="https://user-images.githubusercontent.com/595695/136657786-ec1f4db5-433b-41d0-b276-50469e3e9cb0.png" width="170" align="left">
+<img src="https://user-images.githubusercontent.com/595695/136657786-ec1f4db5-433b-41d0-b276-50469e3e9cb0.png" width="150" align="left">
 
 Designed to fill a gap in tooling in Google Lighthouse and Google's own Stuctured Data Testing Tool, by providing an extendible command line tool and API that includes out of the box support for checking both Schema.org entities and social media markup.
 
