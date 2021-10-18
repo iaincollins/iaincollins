@@ -12,9 +12,7 @@ My recent work has been leading multiple teams and projects for news and media o
 
 I still enjoy designing and building things, but I'm usually contributing more leading and support engineering teams, product owners, delivery managers and stakeholders/customers in delivering great products and services.
 
-# 🛠 Projects
-
-A random selection of some the side projects I've created more recently.
+# 🛠 Side Projects
 
 ## 🔑  [NextAuth.js](https://next-auth.js.org)
 
