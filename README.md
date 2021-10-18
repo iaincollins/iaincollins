@@ -52,7 +52,7 @@ This tool is useful for any website but especially useful for news and media org
 
 _Library and command line tool to extract data from webpages._
 
-A library useful for data scraping, origionally created to support work on civic tech and data journalism. It is [is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), including other high level scrapers. Table To JSON is now maintained by @maugenst. 
+A library useful for data scraping, origionally created to support work on civic tech and data journalism. [It's used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), including other higher level scraper libraries. Table To JSON is now maintained by @maugenst. 
 
 ## 👾 ICARUS for Elite Dangerous
 
