@@ -8,7 +8,7 @@ I enjoy supporting and growing engineers and working collaboratively in cross fu
 
 # 💼 Recent Work
 
-My recent work has been leading multiple teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach/TrinityMirror (the UK's largest commercial news publisher) on engineering culture, ways of working and overseeing replatforming, analytics and machine learning projects.
+My recent work has been leading multiple teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach/TrinityMirror (the UK's largest commercial news publisher) on web products and services, engineering culture, ways of working and overseeing replatforming, analytics and machine learning projects.
 
 I still enjoy designing and building things, but I'm usually contributing more leading and support engineering teams, product owners, delivery managers and stakeholders/customers in delivering great products and services.
 
@@ -56,9 +56,13 @@ A library useful for data scraping, origionally created to support work on civic
 
 ## 👾 ICARUS for Elite Dangerous
 
-ICARUS  is a cross platform companion app for the game Elite Dangerous. It runs on Windows, Mac, Andriod and iOS devices, that hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the Elite Dangerous API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
+ICARUS  is a cross platform companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
 
-It's still a work in progress. I haven't released a binary or the source yet, but have released a few screenshots and a couple of videos.
+The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the public Elite Dangerous game API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
+
+I initially developed a proof of concept for the idea in Electron, but have since refactored it into a single binary that comes in at under 20MB; using JavaScript, Go and native OS APIs to create a lightweight but highly portable cross platform application that runs on Windows, Mac, Linux as well as Andriod and iOS devices. 
+
+This is a new project and I haven't released a binary or the source publically yet, but have released a few screenshots and a couple of videos.
 
 <img src="https://user-images.githubusercontent.com/595695/137490706-4772ba94-904e-47f4-8bf0-759d3ca51287.png" width="20%" align="left">
 <img src="https://user-images.githubusercontent.com/595695/137490731-d6622f74-1b39-49ad-8930-e31d0dec9095.png" width="20%" align="left">
