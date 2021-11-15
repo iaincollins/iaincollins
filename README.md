@@ -10,7 +10,7 @@ I enjoy supporting and growing engineers and working collaboratively in cross fu
 
 My recent work has been leading multiple teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach/TrinityMirror (the UK's largest commercial news publisher) on web products and services, engineering culture, ways of working and overseeing replatforming, analytics and machine learning projects.
 
-I still enjoy designing and building things, but I'm usually contributing more leading and support engineering teams, product owners, delivery managers and stakeholders/customers in delivering great products and services.
+I still enjoy designing and building things, but I'm usually contributing more value when I'm leading and supporting engineering teams, product owners and delivery managers in delivering great products and services.
 
 # 🛠 Side Projects
 
@@ -30,7 +30,7 @@ To ensure it remains open source, collaborative and independent it has been spun
 
 _Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
 
-<img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="270" align="left">
 
 Designed for news and media organisations, Mercury allows teams to to upload, edit, transcode, transcribe and translate audio and video files (in a wide range of formats, including large, unprocessed files) from anywhere in the world on any web enabled device (including a smartphone) and share them in a secure and searchable way with colleagues.
 
@@ -54,18 +54,15 @@ _Library and command line tool to extract data from webpages._
 
 A library useful for data scraping, origionally created to support work on civic tech and data journalism. [It's used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), including other higher level scraper libraries. Table To JSON is now maintained by @maugenst. 
 
-## 👾 ICARUS for Elite Dangerous
+## 👾 [ICARUS](https://github.com/iaincollins/icarus)
 
-ICARUS  is a cross platform companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
+ICARUS is a companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
 
 The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the public Elite Dangerous game API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
 
-I initially developed a proof of concept for the idea in Electron, but have since refactored it into a single binary that comes in at under 20MB; using JavaScript, Go and native OS APIs to create a lightweight but highly portable cross platform application that runs on Windows, Mac, Linux as well as Andriod and iOS devices. 
+I initially developed a proof of concept for the idea in Electron, but have since refactored it into a single binary that comes in at under 20MB; using JavaScript, Go and native OS APIs to create a lightweight but highly portable cross platform application.
 
-This is a new project and I haven't released a binary or the source publically yet, but have released a few screenshots and a couple of videos.
-
-<img src="https://user-images.githubusercontent.com/595695/137490706-4772ba94-904e-47f4-8bf0-759d3ca51287.png" width="20%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/137490731-d6622f74-1b39-49ad-8930-e31d0dec9095.png" width="20%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/137490681-2558f086-d9b4-4c46-882f-1bbdec8798c8.png" width="20%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/136659037-659e102c-f417-483e-89f2-6fb40826507a.jpeg" width="20%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137490706-4772ba94-904e-47f4-8bf0-759d3ca51287.png" width="30%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137490731-d6622f74-1b39-49ad-8930-e31d0dec9095.png" width="30%" align="left">
+<img src="https://user-images.githubusercontent.com/595695/137490681-2558f086-d9b4-4c46-882f-1bbdec8798c8.png" width="30%" align="left">
 
