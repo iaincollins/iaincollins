@@ -1,6 +1,4 @@
-# ℹ️ About
-
-I'm an engineering leader with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
+I'm an engineering lead with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
 
 I've worked in startups and founded companies but have spent most of my career in internet and media companies, designing and building everything from websites and services to infrastructure (core networks, device firmware, custom kernels and extensions and physical infrastructure; servers, switching and storage) to desktop applications for macOS, Windows and Linux and for mobile devices, working with dozens of programming languages, platforms, operating systems and a wide range of hardware.
 
