@@ -12,6 +12,18 @@ I still enjoy designing and building things, but I'm usually contributing more v
 
 # 🛠 Side Projects
 
+A random collection of things I've done for fun.
+
+## 👾 [ICARUS](https://github.com/iaincollins/icarus)
+
+<img src="https://user-images.githubusercontent.com/595695/146653481-885eba7f-5956-4aa5-ac93-06ec39723aad.png" width="270" align="left">
+
+ICARUS Terminal is a companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
+
+The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the public Elite Dangerous game API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
+
+I initially developed a proof of concept for the idea in Electron, but have since refactored it into a single binary that comes in at under 20MB; using JavaScript, Go and native OS APIs to create a lightweight but highly portable cross platform application.
+
 ## 🔑  [NextAuth.js](https://next-auth.js.org)
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
@@ -52,15 +64,4 @@ _Library and command line tool to extract data from webpages._
 
 A library useful for data scraping, origionally created to support work on civic tech and data journalism. [It's used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), including other higher level scraper libraries. Table To JSON is now maintained by @maugenst. 
 
-## 👾 [ICARUS](https://github.com/iaincollins/icarus)
-
-ICARUS is a companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
-
-The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the public Elite Dangerous game API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
-
-I initially developed a proof of concept for the idea in Electron, but have since refactored it into a single binary that comes in at under 20MB; using JavaScript, Go and native OS APIs to create a lightweight but highly portable cross platform application.
-
-<img src="https://user-images.githubusercontent.com/595695/137490706-4772ba94-904e-47f4-8bf0-759d3ca51287.png" width="30%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/137490731-d6622f74-1b39-49ad-8930-e31d0dec9095.png" width="30%" align="left">
-<img src="https://user-images.githubusercontent.com/595695/137490681-2558f086-d9b4-4c46-882f-1bbdec8798c8.png" width="30%" align="left">
 
