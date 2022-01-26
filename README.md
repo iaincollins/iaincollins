@@ -1,30 +1,20 @@
-I'm an engineering lead with 25 years of commercial experience across the full product life cycle in startups, SMEs and enterprise organizations, delivering best-in-class, cross platform solutions for the web, desktop, server, mobile and network devices with contributions to open source spanning over 20 years.
+I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices (including core networks) with contributions to open source spanning over two decades. These days, most of the code I write is for fun.
 
-I've worked in startups and founded companies but have spent most of my career in internet and media companies, designing and building everything from websites and services to infrastructure (core networks, device firmware, custom kernels and extensions and physical infrastructure; servers, switching and storage) to desktop applications for macOS, Windows and Linux and for mobile devices, working with dozens of programming languages, platforms, operating systems and a wide range of hardware.
+# ✍ Side Projects
 
-I enjoy supporting and growing engineers and working collaboratively in cross functional teams to design, build and support products and services. I'm able to zoom in to provide practical, hands-on support with software development and system design, which allows me to leverage practical experience to anticipate potential pitfalls, empathically relate to teams and to articulate commercial pressures and technical problems in ways that resonate with teams and stakeholders. I have the broader commercial experience to be able to step back and provide support and strategic advice for engineering and product teams and help them optimise for delivery and value.
-
-# 💼 Recent Work
-
-My recent work has been leading multiple teams and projects for news and media organizations and with government projects and NGOs, including for BBC News Labs, The Economist and Reach/TrinityMirror (the UK's largest commercial news publisher) on web products and services, engineering culture, ways of working and overseeing replatforming, analytics and machine learning projects.
-
-I still enjoy designing and building things, but I'm usually contributing more value when I'm leading and supporting engineering teams, product owners and delivery managers in delivering great products and services.
-
-# 🛠 Side Projects
-
-A random collection of things I've done for fun.
+*Some of my more recent side projects.*
 
 ## 👾 [ICARUS](https://github.com/iaincollins/icarus)
 
-<img src="https://user-images.githubusercontent.com/595695/146653481-885eba7f-5956-4aa5-ac93-06ec39723aad.png" width="270" align="left">
+<img src="https://user-images.githubusercontent.com/595695/151108764-1880d101-059b-4936-b71a-94ba163e9ca5.PNG" width="270" align="left">
 
 ICARUS Terminal is a companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
 
-The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the public Elite Dangerous game API with third party APIs and agumenting them with additional contextual data to inform, entertain and support players.
+The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the games API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
 
-I initially developed a proof of concept for the idea in Electron, but have since refactored it into a single binary that comes in at under 20MB; using JavaScript, Go and native OS APIs to create a lightweight but highly portable cross platform application.
+This was initially developed a proof of concept in Electron, but have since refactored it using Go, Node.js and native OS APIs to create a lightweight but highly portable cross platform application with a self contained installer that comes in at around 20MB.
 
-## 🔑  [NextAuth.js](https://next-auth.js.org)
+## 🔑 [NextAuth.js](https://next-auth.js.org)
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
 
@@ -36,7 +26,7 @@ Originally developed for React, it has also been ported to other popular framewo
 
 To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, supported by a team of talented and hard working contributors.
 
-## 🎬  Mercury
+## 🎬 Mercury
 
 _Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
 
@@ -48,7 +38,7 @@ On the technical side, it uses an open source technology stack; including ESCMAS
 
 It supports integration with multiple specialist transcription, translation and synthetic voice services from IBM, Google and Microsoft and other specalist vendors.
 
-## 🧰  [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
+## 🛠 [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
 
 _Library and command line tool to help inspect and test Structured Data._
 
@@ -58,7 +48,7 @@ Designed to fill a gap in tooling in Google Lighthouse and Google's own Stucture
 
 This tool is useful for any website but especially useful for news and media organizations as ensuring markup quality can have a significant impact on taffic coming from Google News and Google Discover as well as organic traffic.
 
-## 🧰  [Table to JSON](https://www.npmjs.com/package/tabletojson)
+## 🛠 [Table to JSON](https://www.npmjs.com/package/tabletojson)
 
 _Library and command line tool to extract data from webpages._
 
