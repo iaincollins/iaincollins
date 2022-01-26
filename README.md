@@ -4,7 +4,7 @@ I'm an engineering lead with over 25 years of experience developing software for
 
 *Some of my more recent side projects.*
 
-## 👾 [ICARUS](https://github.com/iaincollins/icarus)
+## 👾 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
 <img src="https://user-images.githubusercontent.com/595695/151108764-1880d101-059b-4936-b71a-94ba163e9ca5.PNG" width="270" align="left">
 
