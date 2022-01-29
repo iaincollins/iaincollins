@@ -18,7 +18,7 @@ This was initially developed a proof of concept in Electron, but have since refa
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
 
-<img src="https://user-images.githubusercontent.com/595695/136657378-fb153624-b29f-4bcd-880c-2dde0d6272a8.png" width="270" align="left">
+<img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="270" align="left">
 
 As an open source, community supported project based around interoperability with open standards, NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases.
 
