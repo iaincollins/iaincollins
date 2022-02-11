@@ -4,15 +4,15 @@ I'm an engineering lead with over 25 years of experience developing software for
 
 *Some of my more recent side projects.*
 
-## 👾 [ICARUS Terminal](https://github.com/iaincollins/icarus)
+## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
 <img src="https://user-images.githubusercontent.com/595695/153655036-7dcd389f-56c8-4024-80cf-7d8d3b63a12f.png" width="270" align="left">
 
-ICARUS Terminal is a companion app for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. The name ICARUS was suggested by a player and chosen by the community.
+ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. It is designed for both desktop/laptop computers and for tablets/phones.
 
 The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the games API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
 
-This was initially developed a proof of concept in Electron, but have since refactored it using Go, Node.js and native OS APIs to create a lightweight but highly portable cross platform application with a self contained installer that comes in at around 20MB.
+ICARUS Terminal was initially developed a proof of concept in Electron, but has been re-implemented using Go, Node.js and native OS APIs to create a lightweight, highly portable cross platform application with a secure software update mechanism using the GitHub releases API and a self contained installer that comes in at around 20MB.
 
 ## 🔑 [NextAuth.js](https://next-auth.js.org)
 
