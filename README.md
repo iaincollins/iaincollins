@@ -1,8 +1,8 @@
-I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices (including core networks) with contributions to open source spanning over two decades. These days, most of the code I publish here is for fun.
+_I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices - including core networks - with contributions to open source spanning over two decades. Day-to-day my focus is on people and delivery, this is mostly for fun._
 
 # ✍ Side Projects
 
-*Some of my more recent side projects.*
+Some of my recent side projects.
 
 ## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
