@@ -6,7 +6,7 @@ I'm an engineering lead with over 25 years of experience developing software for
 
 ## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
-<img src="https://user-images.githubusercontent.com/595695/154845792-a945697d-5a76-4317-b13a-af94d2383fd7.png" width="280" align="left">
+<img src="https://user-images.githubusercontent.com/595695/156479498-928d6cc1-c7ba-4d22-9a5c-553a94c035e7.png" width="280" align="left">
 
 ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. It is designed for both desktop/laptop computers and for tablets/phones.
 
