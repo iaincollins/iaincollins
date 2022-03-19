@@ -1,4 +1,4 @@
-_I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices - including core networks - with contributions to open source spanning over two decades. Most of my open source work is on side projects that I do for fun._
+_I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices - including core networks - with contributions to open source spanning over two decades. Most of of the contributions here are side projects I do for fun._
 
 # ✍ Side Projects
 
