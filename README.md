@@ -1,8 +1,8 @@
-_I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices - including core networks - with contributions to open source spanning over two decades. Most of my recent contributions on GitHub are on side projects._
+I'm an engineering lead with >25 years experience developing software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. Most of my recent contributions on GitHub are on side projects.
 
 # ✍ Side Projects
 
-Some recent side projects I've created.
+_Some recent side projects I've created._
 
 ## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
@@ -12,9 +12,9 @@ _Computer game companion app for Windows and tablet/mobile devices._
 
 ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. It is designed for both desktop/laptop computers and for tablets/phones.
 
-The app hooks into Elite Dangerous to provide context-sensitive real time information (event driven and socket based) by combining the games API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
+The app hooks into the game to provide context-sensitive real time information (event driven and socket based) by combining the game API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
 
-ICARUS Terminal was initially developed a proof of concept in Electron, but has been re-implemented using Go, Node.js and native OS APIs to create a lightweight, highly portable cross platform application with a secure software update mechanism using the GitHub releases API and a self contained installer that comes in at around 20MB.
+ICARUS Terminal is built with React, Node.js, Go, C++ and native OS APIs to create a lightweight, highly portable cross platform application with a secure software update mechanism that leverages the the GitHub releases API and a self contained installer that comes in at around 20MB.
 
 ## 🔑 [NextAuth.js](https://next-auth.js.org)
 
