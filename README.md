@@ -1,12 +1,14 @@
-_I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices - including core networks - with contributions to open source spanning over two decades. Most of of the contributions here are side projects I do for fun._
+_I'm an engineering lead with over 25 years of experience developing software for the web, desktop, server, mobile and network devices - including core networks - with contributions to open source spanning over two decades. Most of my recent contributions on GitHub are on side projects._
 
 # ✍ Side Projects
 
-Some of my recent side projects.
+Some recent side projects I've created.
 
 ## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
-<img src="https://user-images.githubusercontent.com/595695/157622894-bcd76dc4-00fb-4600-9240-5f3aaf2d0c09.png" width="280" align="left">
+_Computer game companion app for Windows and tablet/mobile devices._
+
+<img src="https://user-images.githubusercontent.com/595695/162256600-d8bf5fff-1f5c-4c9c-b338-aa80d164b967.png" width="290" align="left">
 
 ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. It is designed for both desktop/laptop computers and for tablets/phones.
 
@@ -18,7 +20,7 @@ ICARUS Terminal was initially developed a proof of concept in Electron, but has 
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
 
-<img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="280" align="left">
+<img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="290" align="left">
 
 As an open source, community supported project based around interoperability with open standards, NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases.
 
@@ -26,11 +28,12 @@ Originally developed for React, it has also been ported to other popular framewo
 
 To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, supported by a team of talented and hard working contributors.
 
+
 ## 🎬 Mercury
 
 _Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
 
-<img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="280" align="left">
+<img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="290" align="left">
 
 Designed for news and media organisations, Mercury allows teams to to upload, edit, transcode, transcribe and translate audio and video files (in a wide range of formats, including large, unprocessed files) from anywhere in the world on any web enabled device (including a smartphone) and share them in a secure and searchable way with colleagues.
 
