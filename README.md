@@ -1,14 +1,14 @@
-I'm an engineering lead with >25 years experience developing software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. Most of my recent contributions on GitHub are on side projects.
+I'm an engineering lead with 25 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades.
 
-# ✍ Side Projects
+Most of my public work on GitHub is on personal side projects. [I sometimes write about stuff on Medium](https://iaincollins.medium.com/).
 
-_Some recent side projects I've created._
+# ✍ Recent Side Projects
 
 ## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
 _Computer game companion app for Windows and tablet/mobile devices._
 
-<img src="https://user-images.githubusercontent.com/595695/162256600-d8bf5fff-1f5c-4c9c-b338-aa80d164b967.png" width="290" align="left">
+<img src="https://user-images.githubusercontent.com/595695/164384065-2c1fb67b-1c82-4594-8848-b36b10fff8a5.png" width="290" align="left">
 
 ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. It is designed for both desktop/laptop computers and for tablets/phones.
 
