@@ -20,7 +20,7 @@ ICARUS Terminal is built with React, Node.js, Go, C++ and native OS APIs to crea
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
 
-<a href="https://next-auth.js.orgs"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="290" align="left"></a>
+<a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="290" align="left"></a>
 
 As an open source, community supported project based around interoperability with open standards, NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases.
 
