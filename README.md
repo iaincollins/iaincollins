@@ -4,11 +4,11 @@ Most of my public work on GitHub is on personal side projects. [I sometimes writ
 
 # ✍ Recent Side Projects
 
-## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
+## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus) for Elite Dangerous
 
 _Computer game companion app for Windows and tablet/mobile devices._
 
-<img src="https://user-images.githubusercontent.com/595695/164384065-2c1fb67b-1c82-4594-8848-b36b10fff8a5.png" width="290" align="left">
+<a href="https://github.com/iaincollins/icarus"><img src="https://user-images.githubusercontent.com/595695/165185523-dcfab848-01c7-4414-b931-dda4f8281e95.png" width="290" align="left"></a>
 
 ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe sucessor to the 1984 classic space game Elite. It is designed for both desktop/laptop computers and for tablets/phones.
 
@@ -16,11 +16,11 @@ The app hooks into the game to provide context-sensitive real time information (
 
 ICARUS Terminal is built with React, Node.js, Go, C++ and native OS APIs to create a lightweight, highly portable cross platform application with a secure software update mechanism that leverages the the GitHub releases API and a self contained installer that comes in at around 20MB.
 
-## 🔑 [NextAuth.js](https://next-auth.js.org)
+## 🔑 [NextAuth.js](https://next-auth.js.org) For React apps
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
 
-<img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="290" align="left">
+<a href="https://next-auth.js.orgs"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="290" align="left"></a>
 
 As an open source, community supported project based around interoperability with open standards, NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases.
 
@@ -29,7 +29,7 @@ Originally developed for React, it has also been ported to other popular framewo
 To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, supported by a team of talented and hard working contributors.
 
 
-## 🎬 Mercury
+## 🎬 Mercury for video translation
 
 _Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
 
