@@ -1,6 +1,6 @@
-# About me
+# 🙎🏻‍♂️ About me
 
-_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, non-profit/civic-tech projects around the world and started two companies (and far too many side projects)._
+_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, non-profit/civic-tech projects around the world and started two companies (and far too many side projects). I live in the UK and work at [Unity](https://unity.com/)._
 
 # ✍ Recent Side Projects
 
@@ -16,7 +16,7 @@ ICARUS Terminal is a companion app / second screen for the game Elite Dangerous,
 
 The app hooks into the game to provide context-sensitive real time information (event driven and socket based) by combining the game API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
 
-It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub releases API to drive updating. It is distrubted as a full self-contained installer that comes in at around 20MB.
+It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub releases API to drive updating. It is distrubted as a self-contained installer that comes in at around 20MB.
 
 ## 🔑 [NextAuth.js](https://next-auth.js.org) For React apps
 
@@ -28,7 +28,7 @@ As an open source, community supported project based around interoperability wit
 
 Originally developed for React, it has also been ported to other popular frameworks, including Vue.js and Svelte - and can be used with non-JavaScript frameworks, such as Drupal.
 
-To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team led by @balazsorban44.
+To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team led by [@balazsorban44](https://github.com/balazsorban44).
 
 ## 🎬 Mercury for video translation
 
@@ -42,7 +42,7 @@ Designed for news and media organisations, Mercury allows teams to to upload, ed
 
 On the technical side, it uses an open source technology stack; including JavaScript, React and Web Sockets and uses both Serverless and Container based services. It is horizontally scaling and can be run on Amazon Web Services (AWS S3), Goggle Cloud Platform (supports both Google Drive and Google Cloud Storage) and on self-hosted servers (e.g. local storage, network attached storage, etc).
 
-It supports integration with specialist transcription and translation services and synthetic voices from IBM, Google and Microsoft and others.
+It supports integration with specialist transcription and translation services and synthetic voices from IBM, Google, Microsoft (etc).
 
 ## 🛠 [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
 
@@ -60,8 +60,6 @@ _Library and command line tool to extract data from webpages._
 
 A library useful for data scraping, origionally created to support work on civic tech and data journalism.
 
-[TabletoJSON is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), in other higher level scraper libraries and in projects to track a wide range of things from COVID-19 outbreak data to skiing conditions to school classes.
+[Table to JSON is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), in other higher level scraper libraries and in projects to track a wide range of things from COVID-19 data to TV shows, news and weather to class times for students.
 
-Table to JSON is now maintained by @maugenst. 
-
-
+Table to JSON is now maintained by [https://github.com/maugenst](@maugenst).
