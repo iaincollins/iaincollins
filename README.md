@@ -1,6 +1,6 @@
 # 🙎🏻‍♂️ About me
 
-_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, non-profit/civic-tech projects around the world and started two companies (and far too many side projects). I live in the UK and work at [Unity](https://unity.com/)._
+_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, non-profit/civic-tech projects around the world and started two companies (and far too many side projects). [I work on Game Services at Unity](https://unity.com/)._
 
 # ✍ Recent Side Projects
 
