@@ -20,7 +20,7 @@ The app hooks into the game to provide context-sensitive real time information (
 
 It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub releases API to drive updating. It is distrubted as a self-contained installer that comes in at around 20MB.
 
-## 🔑 [NextAuth.js](https://next-auth.js.org) For React apps
+## 🔑 [NextAuth.js](https://next-auth.js.org)
 
 _Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
 
@@ -32,7 +32,7 @@ Originally developed for React, it has also been ported to other popular framewo
 
 To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team led by [@balazsorban44](https://github.com/balazsorban44).
 
-## 🎬 Mercury for video translation
+## 🎬 Mercury
 
 _Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
 
