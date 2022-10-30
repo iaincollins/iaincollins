@@ -1,12 +1,14 @@
 # 🙎🏻‍♂️ About me
 
-_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, non-profit/civic-tech projects around the world and started two companies (and far too many side projects). [I work on Game Services at Unity](https://unity.com/)._
+_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and far too many side projects). I work at [Unity](https://unity.com/) on [Gaming Services](https://unity.com/solutions/gaming-services)._
 
-# ✍ Recent Side Projects
+# ✍ Side Projects
 
-Most of my public work on GitHub is on personal side projects and these span a lot of languages, platforms and types of software. I've highlighted a few of them below. [I also sometimes write about stuff on Medium](https://iaincollins.medium.com/).
+Most of my public work on GitHub is on personal side projects and these span a lot of languages, platforms and types of software.
 
-## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus) for Elite Dangerous
+I've highlighted some recent side projects below. [I also sometimes write about stuff on Medium](https://iaincollins.medium.com/).
+
+## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
 _Computer game companion app for Windows and tablet/mobile devices._
 
@@ -60,6 +62,4 @@ _Library and command line tool to extract data from webpages._
 
 A library useful for data scraping, origionally created to support work on civic tech and data journalism.
 
-[Table to JSON is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), in other higher level scraper libraries and in projects to track a wide range of things from COVID-19 data to TV shows, news and weather to class times for students.
-
-Table to JSON is now maintained by [https://github.com/maugenst](@maugenst).
+[Table to JSON is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), in other higher level scraper libraries and in projects to track a wide range of things from COVID-19 data to TV shows, news and weather to class times for students. Table to JSON is now maintained by [@maugenst](https://github.com/maugenst).
