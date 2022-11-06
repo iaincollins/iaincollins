@@ -1,10 +1,12 @@
 # 🙎🏻‍♂️ About me
 
-_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and far too many side projects). I work at [Unity](https://unity.com/) on [Gaming Services](https://unity.com/solutions/gaming-services)._
+_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and networks (including core networks) with contributions to open source spanning over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and far too many side projects)._
+
+_I live in the UK and I work at [Unity](https://unity.com/) on game backend in [Unity Gaming Services](https://unity.com/solutions/gaming-services)._
 
 # ✍ Side Projects
 
-Most of my public work on GitHub is on personal side projects and these span a lot of languages, platforms and types of software.
+Most of my work on GitHub is on personal side projects and spans different types of software. Not everything is public.
 
 I've highlighted some recent side projects below. [I also sometimes write about stuff on Medium](https://iaincollins.medium.com/).
 
