@@ -6,19 +6,19 @@ I live in the UK and I work at [Unity](https://unity.com/) on game backend in [U
 
 You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>.
 
-[Sometimes I write about stuff on Medium](https://iaincollins.medium.com/).
+Sometimes I [write about stuff on Medium](https://iaincollins.medium.com/).
  
 # ✍ Side Projects
 
 Most of my work on GitHub is on personal side projects and spans different types of software. Not everything is public. I've highlighted some recent side projects below.
 
-## 🕹️ [ICARUS Terminal](https://github.com/iaincollins/icarus)
+## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
-_Computer game companion app for Windows and tablet/mobile devices._
+_🕹️ Immersersive 3rd party interface for the game Elite: Dangerous._
 
 <a href="https://github.com/iaincollins/icarus"><img src="https://user-images.githubusercontent.com/595695/192074952-3bfa22b1-2dd1-45f6-893e-0f56ae5b87c7.png" width="300" align="left"></a>
 
-ICARUS Terminal is a companion app / second screen for the game Elite Dangerous, the modern online, multiplayer universe successor to the 1984 classic space game Elite. Designed for both desktop/laptop computers and for tablets/phones.
+ICARUS Terminal is a companion app / second screen for the game Elite: Dangerous, the modern online, multiplayer universe successor to the 1984 classic space game Elite. Designed for both desktop/laptop computers and for tablets/phones.
 
 The app hooks into the game to provide context-sensitive real time information (event driven and socket based) by combining the game API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
 
@@ -26,7 +26,7 @@ It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub rele
 
 ## 🔑 [NextAuth.js](https://next-auth.js.org)
 
-_Leading authentication solution designed for modern web stacks, including Next.js and Serverless._
+_⭐️ One of the top 1000 open source projects on GitHub._
 
 <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="270" align="left"></a>
 
@@ -34,11 +34,11 @@ As an open source, community supported project based around interoperability wit
 
 Originally developed for React, it has also been ported to other popular frameworks, including Vue.js and Svelte - and can be used with non-JavaScript frameworks, such as Drupal.
 
-To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team led by [@balazsorban44](https://github.com/balazsorban44).
+To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team.
 
 ## 🎬 Mercury
 
-_Video management, transcription and translation tool. Sponsored by the Google DNI Prototype fund._
+_📼 Web based video management, transcription and translation software. Funded by Google._
 
 <img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="250" align="left">
 
@@ -52,7 +52,7 @@ It supports integration with specialist transcription and translation services a
 
 ## 🛠 [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
 
-_Library and command line tool to help inspect and test Structured Data._
+_Library and command line utility to help inspect and test Structured Data._
 
 <img src="https://user-images.githubusercontent.com/595695/136657786-ec1f4db5-433b-41d0-b276-50469e3e9cb0.png" width="150" align="left">
 
