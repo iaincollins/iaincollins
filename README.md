@@ -14,15 +14,15 @@ Most of my work on GitHub is on personal side projects and spans different types
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
-_🕹️ Immersersive 3rd party interface for the game Elite: Dangerous._
+_🕹️ Immersive 3rd party interface for the game Elite: Dangerous._
 
 <a href="https://github.com/iaincollins/icarus"><img src="https://user-images.githubusercontent.com/595695/192074952-3bfa22b1-2dd1-45f6-893e-0f56ae5b87c7.png" width="300" align="left"></a>
 
 ICARUS Terminal is a companion app / second screen for the game Elite: Dangerous, the modern online, multiplayer universe successor to the 1984 classic space game Elite. Designed for both desktop/laptop computers and for tablets/phones.
 
-The app hooks into the game to provide context-sensitive real time information (event driven and socket based) by combining the game API with third party APIs and agumenting them with additional contextual data to inform, entertain and help players.
+The app hooks into the game to provide context-sensitive real time information (event driven and socket based) by combining the game API with third party APIs and augmenting them with additional contextual data to inform, entertain and help players.
 
-It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub releases API to drive updating. It is distrubted as a self-contained installer that comes in at around 20MB.
+It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub releases to push updates. It is distributed as a self-contained installer that comes in at around 20MB.
 
 ## 🔑 [NextAuth.js](https://next-auth.js.org)
 
@@ -56,14 +56,14 @@ _Library and command line utility to help inspect and test Structured Data._
 
 <img src="https://user-images.githubusercontent.com/595695/136657786-ec1f4db5-433b-41d0-b276-50469e3e9cb0.png" width="150" align="left">
 
-Designed to fill a gap in tooling in Google Lighthouse and Google's own Stuctured Data Testing Tool, by providing an extendible command line tool and API that includes out of the box support for checking both Schema.org entities and social media markup.
+Designed to fill a gap in tooling in Google Lighthouse and Google's own Structured Data Testing Tool, by providing an extendible command line tool and API that includes out of the box support for checking both Schema.org entities and social media markup.
 
-This tool is useful for any website but especially useful for news and media organizations as ensuring markup quality can have a significant impact on taffic coming from Google News and Google Discover as well as organic traffic.
+This tool is useful for any website but especially useful for news and media organizations as ensuring markup quality can have a significant impact on traffic coming from Google News and Google Discover as well as organic traffic.
 
 ## 🛠 [Table to JSON](https://www.npmjs.com/package/tabletojson)
 
 _Library and command line tool to extract data from webpages._
 
-A library useful for data scraping, origionally created to support work on civic tech and data journalism.
+A library useful for data scraping, originally created to support work on civic tech and data journalism.
 
 [Table to JSON is used by dozens of other packages](https://www.npmjs.com/browse/depended/tabletojson), in other higher level scraper libraries and in projects to track a wide range of things from COVID-19 data to TV shows, news and weather to class times for students. Table to JSON is now maintained by [@maugenst](https://github.com/maugenst).
