@@ -1,4 +1,4 @@
-# 🙎🏻‍♂️ About me
+# 🧔 About me
 
 _I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and routers with open source projects going back over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and far too many side projects)._
 
