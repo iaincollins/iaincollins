@@ -1,6 +1,6 @@
 # 🧔 About me
 
-_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and routers with open source projects going back over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and far too many side projects)._
+_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and routers with open source projects going back over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and way too many side projects)._
 
 I live in the UK and I work at [Unity](https://unity.com/) on game backend in [Unity Gaming Services](https://unity.com/solutions/gaming-services).
 
@@ -10,7 +10,9 @@ Sometimes I [write about stuff on Medium](https://iaincollins.medium.com/).
  
 # ✍ Side Projects
 
-Most of my work on GitHub is on personal side projects and spans different types of software. Not everything is public. I've highlighted some recent side projects below.
+Most of my work on GitHub is on personal side projects and spans different types of software.
+
+Not everything is public but you can find some recent side projects I've been working on below.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
