@@ -44,11 +44,11 @@ _📼 Web based video management, transcription and translation software. Funded
 
 <img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="250" align="left">
 
-Mercury lets you to drag a video in one language in and watch it back in other languages, with an editable, timestamped transcript in each language, that can also be exported as subtitles or text.
+Mercury is a video and transcript editor and translation workflow tool that lets you drop-and-drag a video in one language in and then watch it back in other languages, with an editable, timestamped transcript in each language, that can also be exported as subtitles or text.
 
 Designed for news and media organisations, Mercury allows teams to to upload, edit, transcode, transcribe and translate audio and video files (in a wide range of formats, including large, unprocessed files) from anywhere in the world on any web enabled device (including a smartphone) and share them in a secure and searchable way with colleagues.
 
-On the technical side, it uses an open source technology stack; including JavaScript, React and Web Sockets and uses both Serverless and Container based services. It is horizontally scaling and can be run on Amazon Web Services (AWS S3), Goggle Cloud Platform (supports both Google Drive and Google Cloud Storage) and on self-hosted servers (e.g. local storage, network attached storage, etc).
+It's written JavaScript, React and Web Sockets and uses both Serverless and Container based services. It is horizontally scaling and designed to be cross platform, so front end can run on any device and the backend can run on Amazon Web Services (AWS S3), Google Cloud Platform (supports both Google Drive and Google Cloud Storage) and on self-hosted servers (e.g. local storage, network attached storage, etc).
 
 It supports integration with specialist transcription and translation services and synthetic voices from IBM, Google, Microsoft (etc).
 
