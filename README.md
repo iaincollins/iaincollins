@@ -40,7 +40,7 @@ To ensure it remains open source, collaborative and independent it has been spun
 
 ## 🎬 Mercury
 
-_📼 Web based video management, transcription and translation software. Funded by Google._
+_📼 Web based video management, transcription and translation software. Supported by funding from Google._
 
 <img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="250" align="left">
 
