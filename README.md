@@ -10,13 +10,23 @@ Sometimes I [write about stuff on Medium](https://iaincollins.medium.com/).
  
 # ✍ Side Projects
 
-Most of my work on GitHub is on personal side projects and spans different types of software.
+Most of my public work on GitHub is on personal side projects and spans different types of software.
 
-Not everything is public but you can find some recent side projects I've been working on below.
+## 💽 [Ardent Industry]([https://github.com/iaincollins/icarus](https://ardent-industry.com))
+
+_🕹️ Low-fi game scale for those who like living in the future._
+
+<a href="https://ardent-industry.com"><img src="https://github.com/iaincollins/iaincollins/assets/595695/92408024-b594-4bb7-9de6-15525885f084" width="300" align="left"></a>
+
+A live-updating database of over 100,000,000 locations, tracking millions of commodity prices across galactic trade markets in the year 3038, using data from public APIs for the game Elite Dangerous.
+
+Designed both as a practical database with REST API for ICARUS Terminal/Elite Dangerous players as well as a technical proof of concept of doing more with less when it comes to game world hosting; it's robust, highly performant and incredibly cheap to run.
+
+It's a low-fi tech solution - built entirely in JavaScript and SQLite with a similarly low-fi asthetic for the front end.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
-_🕹️ Immersive 3rd party interface for the game Elite: Dangerous._
+_🕹️ Immersive 3rd party interface for the game Elite Dangerous._
 
 <a href="https://github.com/iaincollins/icarus"><img src="https://user-images.githubusercontent.com/595695/192074952-3bfa22b1-2dd1-45f6-893e-0f56ae5b87c7.png" width="300" align="left"></a>
 
@@ -28,7 +38,7 @@ It is built with React, Node.js, Go, C++ and native OS APIs and uses GitHub rele
 
 ## 🔑 [NextAuth.js](https://next-auth.js.org)
 
-_⭐️ One of the top 1000 open source projects on GitHub._
+_⭐️ Open source auth. One of the top 1000 open source projects on GitHub._
 
 <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="270" align="left"></a>
 
