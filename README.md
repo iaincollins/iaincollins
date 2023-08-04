@@ -12,7 +12,7 @@ Sometimes I [write about stuff on Medium](https://iaincollins.medium.com/).
 
 Most of my public work on GitHub is on personal side projects and spans different types of software.
 
-## 💽 [Ardent Industry]([https://github.com/iaincollins/icarus](https://ardent-industry.com))
+## 💽 [Ardent Industry](https://ardent-industry.com)
 
 _🕹️ Low-fi game scale for those who like living in the future._
 
