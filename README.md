@@ -22,7 +22,7 @@ A live-updating database of over 100,000,000 locations, tracking millions of com
 
 Designed both as a practical database with REST API for ICARUS Terminal/Elite Dangerous players as well as a technical proof of concept of doing more with less when it comes to game world hosting; it's robust, highly performant and incredibly cheap to run.
 
-It's a low-fi tech solution - built entirely in JavaScript and SQLite with a similarly low-fi asthetic for the front end.
+It's a low-fi tech solution - built entirely in JavaScript and SQLite with a low-fi asthetic.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
