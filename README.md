@@ -7,14 +7,14 @@ _I'm an engineering lead with 20-30 years experience developing cross platform s
 * You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>
 * [I sometimes write stuff on Medium](https://iaincollins.medium.com/)
  
-# ✍ Side Projects
+# ✍ Side Projects![Uploading Screenshot (4241).png…]()
 
 _Most of my public work on GitHub is on personal side projects and spans different types of software._
 
-## 🎮 [First Person Demo Scene](https://demo-scene.vercel.app)
+## 🎮 [WebGL First Person Demo Scene](https://demo-scene.vercel.app)
 
 <p align="center">
- <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/cce0e684-3d34-4ab5-9344-fe654b7685d1" width="600"></a>
+ <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/0c5850be-ba24-488b-9785-7140b711124e" width="600"></a>
 </p>
 
 A simple first person perspective demo for the web, using low-code. It features real time lighting, terrain that is procedurally generated on load and a physics simulation of 100+ objects in the scene. Built with Next.js and React with React Three Fibre (which is a wrapper for Three.js, which is in turn an abstraction for WebGL). 
