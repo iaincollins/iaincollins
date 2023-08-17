@@ -7,7 +7,7 @@ _I'm an engineering lead with 20-30 years experience developing cross platform s
 * You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>
 * [I sometimes write stuff on Medium](https://iaincollins.medium.com/)
  
-# ✍ Side Projects![Uploading Screenshot (4241).png…]()
+# ✍ Side Projects
 
 _Most of my public work on GitHub is on personal side projects and spans different types of software._
 
