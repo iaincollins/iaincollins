@@ -17,7 +17,7 @@ _Most of my public work on GitHub is on personal side projects and spans differe
  <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/0c5850be-ba24-488b-9785-7140b711124e" width="600"></a>
 </p>
 
-A simple first person perspective demo for the web, using low-code. It features real time lighting, terrain that is procedurally generated on load and a physics simulation of 100+ objects in the scene. Built with Next.js and React with React Three Fibre (which is a wrapper for Three.js, which is in turn an abstraction for WebGL). 
+A simple first person perspective demo for the web, created using low-code with React. It features real time lighting, terrain that is procedurally generated on load and a physics simulation of 100+ objects in the scene. Built with Next.js and React Three Fibre (a wrapper for Three.js, which is in turn an abstraction for WebGL). 
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
@@ -51,9 +51,9 @@ Although I created NextAuth.js, I've since moved on to other projects and am no 
  <img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="600">
 </p>
 
-Developed with funding from Google's Digital News Initative, Mercury is a web based video and transcript editor and translation workflow tool that lets you drop-and-drag a video in one language in and then watch it back in other languages, with an editable, timestamped transcript in each language, that can also be exported as subtitles or text.
+I developed Mercury with funding from Google DNI. Mercury is a web based video and transcript editor and translation workflow tool that lets you drop-and-drag a video in one language in and then watch it back in other languages, with an editable, timestamped transcript in each language, that can also be exported as subtitles or text.
 
-Designed for news and media organisations, Mercury allows teams to to upload, edit, transcode, transcribe and translate audio and video files (in a wide range of formats, including large, unprocessed files) from anywhere in the world on any web enabled device (including a smartphone) and share them in a secure and searchable way.
+Designed for news and media organisations, Mercury allows teams to upload, edit, transcode, transcribe and translate audio and video files (in a wide range of formats, including large, unprocessed files) from anywhere in the world on any web enabled device (including a smartphone) and share them in a secure and searchable way.
 
 ## 🛠 [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
 
