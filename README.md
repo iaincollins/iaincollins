@@ -11,13 +11,13 @@ _I'm an engineering lead with 20-30 years experience developing cross platform s
 
 _Most of my public work on GitHub is on personal side projects and spans different types of software._
 
-## 🎮 [WebGL First Person Demo Scene](https://demo-scene.vercel.app)
+## 🎮 [WebGL First Person World Demo](https://demo-scene.vercel.app)
 
 <p align="center">
- <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/0c5850be-ba24-488b-9785-7140b711124e" width="600"></a>
+ <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/8f51e560-3648-47fb-acd1-9b9888fcf234" width="600"></a>
 </p>
 
-A simple first person perspective demo for the web, created using low-code with React. It features real time lighting, terrain that is procedurally generated on load and a physics simulation of 100+ objects in the scene. Built with Next.js and React Three Fibre (a wrapper for Three.js, which is in turn an abstraction for WebGL). 
+A simple first person perspective environment demo for the web, created using low-code using React. Features real time lighting, terrain - trees, rocks and clouds - that are procedurally generated on load and a physics simulation of 100+ objects in the scene. Built with Next.js and React Three Fibre (a wrapper for Three.js, which is in turn an abstraction for WebGL).
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
