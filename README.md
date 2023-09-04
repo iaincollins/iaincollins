@@ -11,13 +11,15 @@ _I'm an engineering lead with 20-30 years experience developing cross platform s
 
 _Most of my public work on GitHub is on personal side projects and spans different types of software._
 
-## 🎮 [WebGL First Person World Demo](https://demo-scene.vercel.app)
+## 🎮 [First person procedurally generated scenes using WebGL](https://demo-scene.vercel.app)
 
 <p align="center">
- <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/8f51e560-3648-47fb-acd1-9b9888fcf234" width="600"></a>
+ <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/f13caa8b-221a-451e-bbf1-c57c1d81b1a3" width="600"></a>
 </p>
 
-A simple first person perspective environment demo for the web, created using low-code using React. Features real time lighting, terrain - trees, rocks and clouds - that are procedurally generated on load and a physics simulation of 100+ objects in the scene. Built with Next.js and React Three Fibre (a wrapper for Three.js, which is in turn an abstraction for WebGL).
+A small collection of scenes in a first person perspective. The terrain and objects in each scene (trees, rocks, clouds, etc) are both created and placed using procedural generation. Features multiple real time lights (no baked shadows), instanced gemoetry with thousands of objects on screen at the same time and physics modeling for hundreds of objects at a time. It uses flat / vertex shading and a low-poly style to optimise for performance on mid-tier systems (and to avoid the overhead of requiring downloading of textures), it also features more advanced material shaders and particle effects.
+
+Built with Next.js and with custom components created for React Three Fibre - a wrapper for Three.js, which is in turn an abstraction for WebGL. 
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
