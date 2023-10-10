@@ -17,9 +17,9 @@ _Most of my public work on GitHub is on personal side projects and spans differe
  <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/f13caa8b-221a-451e-bbf1-c57c1d81b1a3" width="600"></a>
 </p>
 
-A small collection of scenes in a first person perspective. The terrain and objects in each scene (trees, rocks, clouds, etc) are both created and placed using procedural generation. Features multiple real time lights (no baked shadows), instanced gemoetry with thousands of objects on screen at the same time and physics modeling for hundreds of objects at a time. It uses flat / vertex shading and a low-poly style to optimise for performance on mid-tier systems (and to avoid the overhead of requiring downloading of textures), it also features more advanced material shaders and particle effects.
+A small collection of scenes in a first person perspective. The terrain and objects in each scene (trees, rocks, clouds, etc) are both created and placed at runtime using procedural generation. Features multiple real time lights (no baked shadows), instanced gemoetry with thousands of objects on screen at the same time and physics modeling for hundreds of objects at a time. It uses flat / vertex shading and a low-poly style to optimize for performance on mid-tier systems (and to avoid the overhead of requiring downloading of textures). It also features material shaders and particle effects.
 
-Built with Next.js and with custom components created for React Three Fibre - a wrapper for Three.js, which is in turn an abstraction for WebGL. 
+It is built with Next.js and with custom components created for React Three Fibre - a wrapper for Three.js, which is in turn an abstraction for WebGL. 
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
@@ -43,9 +43,9 @@ ICARUS Terminal is a companion app / second screen for the game Elite: Dangerous
  <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="600"></a>
 </p>
 
-One of the top 1000 open source projects on GitHub (according to GitHub), it's in open source, community supported project based around interoperability with open standards. NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases. Originally developed for React - and specifically Next.js, hence the name - it has been ported to other popular frameworks, including Vue.js and Svelte and can be used with non-JavaScript frameworks, such as Drupal.
+I created NextAuth.js a few years ago. It now has millions of downloads a month and is apparently of the top 1000 open source projects on GitHub (according to GitHub). It's an open source, community supported project based around interoperability with open standards. NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases. Originally developed for React - and specifically Next.js, hence the name - it has been ported to other popular frameworks, including Vue.js and Svelte and can be used with non-JavaScript frameworks, such as Drupal.
 
-Although I created NextAuth.js, I've since moved on to other projects and am no longer actively involved. To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team.
+I've since moved on to other projects and am no longer actively involved, other than to look in and see how things are going now and then. To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team.
 
 ## 🎬 Mercury
 
