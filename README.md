@@ -1,15 +1,14 @@
 # 🧔 About me
 
-_I'm an engineering lead with 20-30 years experience developing cross platform software for the web, desktop, server, mobile and routers with open source projects going back over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and way too many side projects)._
+_I'm an [engineering lead with ~30 years experience](https://www.linkedin.com/in/iaincollins) developing cross platform software for the web, desktop, server, mobile and routers with open source projects going back over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and way too many side projects)._
 
 * I live in Edinburgh, Scotland
-* I work at [Unity](https://unity.com/) on game backend in [Unity Gaming Services](https://unity.com/solutions/gaming-services)
-* You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>
-* [I sometimes write stuff on Medium](https://iaincollins.medium.com/)
+* I work at [Unity](https://unity.com/) on game backend services for [Unity Gaming Services](https://unity.com/solutions/gaming-services)
+* You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>, sometimes I post on [Medium](https://iaincollins.medium.com/)
  
 # ✍ Side Projects
 
-_Most of my public work on GitHub is on personal side projects and spans different types of software._
+_Most of my public work on GitHub is on personal side projects and spans different types of software. These are some of the smaller things I've worked on more recently. Most of the open source projects I've worked on over the last 20-30 years are lost to the wind (or maybe sitting around in an SVN or CVS repository, on sitting on a disk on a shelf somewhere)._
 
 ## 🎮 [First person procedurally generated scenes using WebGL](https://demo-scene.vercel.app)
 
