@@ -23,7 +23,7 @@ It is built with Next.js and with custom components created for React Three Fibr
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
 <p align="center">
- <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/92408024-b594-4bb7-9de6-15525885f084" width="600"></a>
+ <a href="[https://ardent-industry.com"><img src="https://github.com/iaincollins/iaincollins/assets/595695/92408024-b594-4bb7-9de6-15525885f084" width="600"></a>
 </p>
 
 A live-updating database of over 100,000,000 locations, tracking millions of commodity prices across galactic trade markets in the year 3038, using data from players of the game Elite Dangerous (collected from game clients using an API provided by the games developers). It's a low-fi tech solution built entirely in JavaScript and SQLite with a similarly low-fi asthetic.
