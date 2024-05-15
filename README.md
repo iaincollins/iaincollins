@@ -18,7 +18,7 @@ _Most of my public work on GitHub is on personal side projects and spans differe
 
 A small collection of scenes in a first person perspective. The terrain and objects in each scene (trees, rocks, clouds, etc) are both created and placed at runtime using procedural generation. Features multiple real time lights (no baked shadows), instanced gemoetry with thousands of objects on screen at the same time and physics modeling for hundreds of objects at a time. It uses flat / vertex shading and a low-poly style to optimize for performance on mid-tier systems (and to avoid the overhead of requiring downloading of textures). It also features material shaders and particle effects.
 
-It is built with Next.js and with custom components created for React Three Fibre - a wrapper for Three.js, which is in turn an abstraction for WebGL. This an unconventional stack, and it's a very simple demo, but it was a fun exercise in seeing what's possible using those components and to better understand hwo RTF and Three.js work in practice.
+It is built with Next.js and with custom components created for React Three Fibre - a wrapper for Three.js, which is in turn an abstraction for WebGL. This an unconventional stack, and it's a very simple demo, but it was a fun exercise in seeing what's possible using those components and to better understand how RTF and Three.js work in practice.
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
