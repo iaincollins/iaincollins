@@ -1,24 +1,28 @@
 # 🧔 About me
 
-_I'm an [engineering lead with ~30 years experience](https://www.linkedin.com/in/iaincollins) developing cross platform software for the web, desktop, server, mobile and routers with open source projects going back over two decades. I've worked in startups, large enterprises, on non-profit/civic-tech and started two companies (and way too many side projects)._
+I'm an [engineering lead with ~30 years experience](https://www.linkedin.com/in/iaincollins) developing cross platform software for the web, desktop, server, mobile and devices with open source contributions going back over two decades.
 
-* I live in Edinburgh, Scotland
-* I work at [Unity](https://unity.com/) on game backend services for [Unity Gaming Services](https://unity.com/solutions/gaming-services)
-* You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>, sometimes I post on [Medium](https://iaincollins.medium.com/)
+I've worked in startups, large enterprises, on non-profit/civic-tech, started two companies and more side projects that I can remember.
+
+I live in Edinburgh (Scotland) and I work at [Unity](https://unity.com/) on game backends for [Unity Gaming Services](https://unity.com/solutions/gaming-services).
+
+You can find me on mastodon.social as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>, sometimes I post on [Medium](https://iaincollins.medium.com/)
  
 # ✍ Side Projects
 
 _Most of my public work on GitHub is on personal side projects and spans different types of software. These are some of the smaller things I've worked on more recently. Most of the open source projects I've worked on over the last 20-30 years are lost to the wind (or maybe sitting around in an SVN or CVS repository, on sitting on a disk on a shelf somewhere)._
 
-## 🎮 [First person procedurally generated scenes using WebGL](https://demo-scene.vercel.app)
+## 🎮 [Procedurally generated scenes using WebGL](https://demo-scene.vercel.app)
 
 <p align="center">
  <a href="https://demo-scene.vercel.app"><img src="https://github.com/iaincollins/iaincollins/assets/595695/f13caa8b-221a-451e-bbf1-c57c1d81b1a3" width="600"></a>
 </p>
 
-A small collection of scenes in a first person perspective. The terrain and objects in each scene (trees, rocks, clouds, etc) are both created and placed at runtime using procedural generation. Features multiple real time lights (no baked shadows), instanced gemoetry with thousands of objects on screen at the same time and physics modeling for hundreds of objects at a time. It uses flat / vertex shading and a low-poly style to optimize for performance on mid-tier systems (and to avoid the overhead of requiring downloading of textures). It also features material shaders and particle effects.
+A collection of scenes that can be explored in a first person view. The terrain and objects in the scenes are created and placed at runtime using procedural generation.
 
-It is built with Next.js and with custom components created for React Three Fibre - a wrapper for Three.js, which is in turn an abstraction for WebGL. This an unconventional stack, and it's a very simple demo, but it was a fun exercise in seeing what's possible using those components and to better understand how RTF and Three.js work in practice.
+It's built with Next.js and with custom components created for React Three Fibre, a wrapper for Three.js, which is in turn an abstraction for WebGL.
+
+This an unconventional stack and it's a very simple demo, but it was a fun exercise in seeing what's possible using those components and has helped me better understand how RTF and Three.js work in practice.
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
@@ -26,7 +30,9 @@ It is built with Next.js and with custom components created for React Three Fibr
  <a href="https://ardent-industry.com"><img src="https://github.com/iaincollins/iaincollins/assets/595695/92408024-b594-4bb7-9de6-15525885f084" width="600"></a>
 </p>
 
-A live-updating database of over 100,000,000 locations, tracking millions of commodity prices across galactic trade markets in the year 3038, using data from players of the game Elite Dangerous (collected from game clients using an API provided by the games developers). It's a low-fi tech solution built entirely in JavaScript and SQLite with a similarly low-fi asthetic.
+A constantly live-updating database of over 100,000,000 locations, tracking millions of commodity prices across galactic trade markets in the year 3038, using data from players of the game Elite Dangerous, collected from game clients using an API provided by the games developer.
+
+It's a performant, robust backend tht runs on low-end hardware. It is built entirely in JavaScript and SQLite and has a similarly low-fi asthetic for the UI.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
@@ -42,7 +48,9 @@ ICARUS Terminal is a companion app / second screen for the game Elite: Dangerous
  <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="600"></a>
 </p>
 
-I created NextAuth.js a few years ago. It now has millions of downloads a month and is apparently of the top 1000 open source projects on GitHub (according to GitHub). It's an open source, community supported project based around interoperability with open standards. NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases. Originally developed for React - and specifically Next.js, hence the name - it has been ported to other popular frameworks, including Vue.js and Svelte and can be used with non-JavaScript frameworks, such as Drupal.
+I created NextAuth.js a few years ago because there wasn't anything like it already and was getting tired of needing to write the same logic over and over.
+
+It now has millions of downloads a month and is apparently of the top 1000 open source projects on GitHub (according to GitHub). It's an open source, community supported project based around interoperability with open standards. NextAuth.js has grown to support dozens of auth providers and a wide range of SQL and no-SQL databases. Originally developed for React - and specifically Next.js, hence the name - it has been ported to other popular frameworks, including Vue.js and Svelte and can be used with non-JavaScript frameworks, such as Drupal.
 
 I've since moved on to other projects and am no longer actively involved, other than to look in and see how things are going now and then. To ensure it remains open source, collaborative and independent it has been spun off into a dedicated organization, with it's own core team.
 
