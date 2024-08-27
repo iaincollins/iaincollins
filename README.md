@@ -33,7 +33,7 @@ It's a able to run on low-end hardware, is built entirely in JavaScript and SQLi
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
 <p align="center">
- <a href="https://github.com/iaincollins/icarus"><img src="https://user-images.githubusercontent.com/595695/192074952-3bfa22b1-2dd1-45f6-893e-0f56ae5b87c7.png" width="600"></a>
+ <a href="https://github.com/iaincollins/icarus"><img src="https://github.com/user-attachments/assets/ed4fdef3-1a23-420f-91b6-aa7680aecff5" width="800"></a>
 </p>
 
 ICARUS Terminal is a companion app / second screen for the game Elite: Dangerous, the latest follow up to the 1984 classic space game Elite. Designed for both desktop/laptop computers and for tablets/phones, the app hooks into the game to provide context-sensitive real time information (event driven and socket based) by combining the game API with third party APIs. Built with Next.js, React, Node.js, Go and C++.
