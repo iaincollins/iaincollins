@@ -18,17 +18,15 @@ _Most of my public work on GitHub is on personal side projects and spans differe
 
 A collection of scenes that can be explored in a first person view. The terrain and objects in the scenes are created and placed at runtime using procedural generation.
 
-It's built with Next.js and with custom components created for React Three Fibre, a wrapper for Three.js, which is in turn an abstraction for WebGL. This an unconventional stack and it's a very simple demo, but it was a fun exercise in seeing what's possible using those components and has helped me better understand how RTF and Three.js work in practice.
+It's built with Next.js an React and with custom components created for React Three Fibre, a wrapper for Three.js, which is in turn an abstraction for WebGL. This an unconventional stack and it's a very simple demo, but it was a fun exercise in seeing what's possible using those components and has helped me better understand how React Three Fibre and Three.js work in practice.
 
 ## 💽 [Ardent Industry](https://ardent-industry.com)
 
 <p align="center">
- <a href="https://ardent-industry.com"><img src="https://github.com/iaincollins/iaincollins/assets/595695/92408024-b594-4bb7-9de6-15525885f084" width="600"></a>
+ <a href="https://ardent-industry.com"><img src="https://github.com/user-attachments/assets/f84231c9-d63d-4a7a-9eed-763e67fd258a" width="600"></a>
 </p>
 
-A constantly live-updating database of over 125 million locations, tracking millions of commodity buy/sell order prices on galactic trade markets in the year 3038, using data from players of the game Elite Dangerous, collected from game clients using an API provided by the games developer.
-
-It's a able to run on low-end hardware, is built entirely in JavaScript and SQLite and has a similarly low-fi asthetic for the UI.
+A constantly live-updating database of over 130 million locations, tracking 40-50 million commodity buy/sell order prices on galactic trade markets in the year 3038, using data from players of the game Elite Dangerous, collected from game clients using an API provided by the games developer. It runs on low-end hardware, built entirely in JavaScript and SQLite and has a similarly low-fi asthetic for the UI.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
