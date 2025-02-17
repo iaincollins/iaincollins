@@ -1,6 +1,6 @@
 # 🧔 About
 
-I'm an [engineering lead with ~30 years experience](https://www.linkedin.com/in/iaincollins) developing cross platform software for the web, desktop, server, mobile and devices with open source contributions going back 25 years. I've got experience working in startups (including two companies of my own), large enterprise orgs and on non-profit/civic-tech and on collaborative volunteer projects.
+I'm a [software and systems engineering lead](https://www.linkedin.com/in/iaincollins) with 30 years of industry experience developing cross platform software for the web, desktop, server, mobile and devices and have open source projects going back 25 years.
 
 I live in Edinburgh, Scotland and I work at [Unity](https://unity.com/) on game backend systems for [Unity Gaming Services](https://unity.com/solutions/gaming-services).
 
