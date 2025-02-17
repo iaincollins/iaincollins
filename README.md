@@ -2,7 +2,7 @@
 
 I'm a [software and systems engineering lead](https://www.linkedin.com/in/iaincollins) with 30 years of industry experience developing cross platform software for the web, desktop, server, mobile and devices and have open source projects going back 25 years.
 
-I live in Edinburgh, Scotland and I work at [Unity](https://unity.com/) on game backend systems for [Unity Gaming Services](https://unity.com/solutions/gaming-services).
+I live in Edinburgh, Scotland and I work at [Unity](https://unity.com/) working with a fantastic team on game backend systems for [Unity Gaming Services](https://unity.com/solutions/gaming-services).
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>, sometimes I post on [Medium](https://iaincollins.medium.com/).
  
