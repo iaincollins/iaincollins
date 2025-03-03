@@ -58,9 +58,11 @@ I've since moved on to other projects and am no longer actively involved, other 
  <img src="https://user-images.githubusercontent.com/595695/136658187-c3ef9888-e17f-4c50-aa2f-d54eec2a276b.png" width="600">
 </p>
 
-I developed Mercury with funding from Google DNI. Mercury is a web based video and transcript editor and translation workflow tool that lets you drop-and-drag a video in one language in and then watch it back in other languages, with an editable, timestamped transcript in each language, that can also be exported as subtitles or text.
+Mercury is a web based video and transcript editor and translation workflow tool that lets you drop-and-drag a video in one language in and then watch it back in other languages, with an editable, timestamped transcript in each language, that can also be exported as subtitles or text.
 
 Designed for news and media organisations, Mercury allows teams to upload, edit, transcode, transcribe and translate audio and video files in a wide range of formats, including large, unprocessed files - from anywhere in the world on any web enabled device, including a smartphone, and share them in a secure and searchable way.
+
+I got a grant to build Mercury from Google, through their Digital News Initiative program. 
 
 ## 🛠 [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
 
