@@ -1,4 +1,4 @@
-# 🧔 About
+# ℹ️ About
 
 I'm a [software and systems engineering lead](https://www.linkedin.com/in/iaincollins) with 30 years of industry experience developing cross platform software for the web, desktop, server, mobile and devices and have open source projects going back 25 years.
 
@@ -6,7 +6,7 @@ I live in Edinburgh, Scotland and I work at [Unity](https://unity.com/) working 
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>, sometimes I post on [Medium](https://iaincollins.medium.com/).
 
-# 🖥️ Side Projects
+# ✍️ Side Projects
 
 I used to maintain some civic tech / open data / news related systems in my spare time, but I mostly only do fun side projects now.
 
@@ -20,10 +20,10 @@ Three different environments which can be explored in a first person view. Scene
 
 It's built with Next.js an React. It uses React Three Fibre, a wrapper for Three.js, which is in turn an abstraction for WebGL. This an unconventional stack and it's a simple demo with simple physics and player movement and was fun exercise in seeing what's possible using those components and has helped me better understand how React Three Fibre and Three.js work in practice.
 
-## 💽 [Ardent Industry](https://ardent-industry.com)
+## 📈 [Ardent Industry](https://ardent-industry.com)
 
 <p align="center">
- <a href="https://ardent-industry.com"><img src="https://github.com/user-attachments/assets/f84231c9-d63d-4a7a-9eed-763e67fd258a" width="600"></a>
+ <a href="https://ardent-industry.com"><img src="https://github.com/user-attachments/assets/12f9f8f4-c5ea-44e3-a415-2575d0168b8f" width="600"></a>
 </p>
 
 A constantly live-updating database of ~150 million locations, tens of millions of commodity buy/sell orders and processing million updates a day to galactic trade database, using data from players of the game Elite Dangerous, collected from game clients using an API for the game provided by the studio, Frontier Developments.
