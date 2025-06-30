@@ -1,14 +1,14 @@
 # ℹ️ About me
 
-Professionally, [I'm a software and systems engineering lead](https://www.linkedin.com/in/iaincollins) with 30 years experience in software development and systems engineering.
+I'm a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) with 30 years experience in software development and systems engineering.
 
-I live in Edinburgh, Scotland and work at [Unity](https://unity.com/) with a fantastic team on Game Backend systems supporting millions of players.
+I live in Edinburgh, Scotland work with a fantastic team on Game Backend systems - specifically on storage and authentication services and SDKs - supporting games with millions of players across all major platforms (mobile, console and desktop).
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>, sometimes I post on [Medium](https://iaincollins.medium.com/).
 
 # ✍️ Side projects
 
-I've been contributing to and release open source software for 25 years, from small libraries to frameworks to desktop and server applications, and a few bits of civic tech, but most of my projects these days are things I build for fun.
+I've been creating, maintaining and contributing open source software for 25 years - from small libraries to popular frameworks to desktop and server applications, and a few bits of civic tech - but most of my projects these days are side projects I make for fun.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
