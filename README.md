@@ -11,20 +11,20 @@ For 25 years, I've been creating, maintaining, and contributing to open-source s
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
 <p align="center">
- <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/ef59f45d-9c56-41cb-b15e-2b90031e6c08" width="600"></a>
+ <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/ef59f45d-9c56-41cb-b15e-2b90031e6c08" width="800"></a>
 </p>
 
 This sample features three distinct environments explorable in a first-person view, generated at runtime using procedural generation. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the possibilities of these components and helped me better understand the practical issues relating to implementing a 3D environment using React Three Fibre and Three.js.
 
-## 📈 [Ardent Industry](https://ardent-industry.com)
+## 📈 [Ardent Insight](https://ardent-insight.com)
 
 <p align="center">
- <a href="https://ardent-industry.com"><img src="https://github.com/user-attachments/assets/12f9f8f4-c5ea-44e3-a415-2575d0168b8f" width="600"></a>
+ <a href="https://ardent-insight.com"><img src="https://github.com/user-attachments/assets/3003e1f1-4174-42ae-9869-61198bf1e7de" width="800"></a>
 </p>
 
-Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream driving millions of updates daily. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN) via a process approved by the game's developer, Frontier Developments. Both the frontend and backend are built in JavaScript, with SQLite as the database, and include a public REST API.
+Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in game account using OAuth.
 
-Beyond being a functional tool for players and developers (who utilize the API in their own third-party apps), it demonstrates how developers can build scalable and reliable backend infrastructure, with support for large scale multiplayer games using open-source software running at very low cost.
+Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project demonstrates how developers can build scalable and reliable backend infrastructure, with support for large scale multiplayer games using open-source software running at very low cost.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
@@ -37,7 +37,7 @@ ICARUS Terminal is a companion app/second screen for Elite: Dangerous, the lates
 ## 🔑 [NextAuth.js](https://next-auth.js.org)
 
 <p align="center">
- <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="600"></a>
+ <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="800"></a>
 </p>
 
 I created NextAuth.js because there wasn't anything like it already and I wanted adding authentication to new projects to be easier. It now has millions of downloads a month and become one of top 1,000 open I created NextAuth.js to simplify adding authentication to new projects, as there wasn't a similar solution available. It now has millions of monthly downloads and has become one of the top 1,000 open-source projects on GitHub and in thousands of projects, and used by millions of end users. 
@@ -56,7 +56,7 @@ Mercury is a web based video and transcript editor and translation workflow tool
 
 Designed for news and media organisations, Mercury allows teams to upload, edit, transcode, transcribe and translate audio and video files in a wide range of formats, including large, unprocessed files - from anywhere in the world on any web enabled device, including a smartphone, and share them in a secure and searchable way.
 
-I got a grant to build Mercury from Google, through Google DNI. 
+Development of Mercury was funded by a grant I obtained form Google.
 
 ## 🛠 [Structured Data Testing Tool](https://github.com/glitchdigital/structured-data-testing-tool)
 
