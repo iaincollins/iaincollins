@@ -32,7 +32,7 @@ This sample features three distinct environments - a forest, a desert and a froz
 
 Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in-game account using OAuth.
 
-Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project demonstrates is an example of how you can build scalable and reliable backend infrastructure, with support for large scale multiplayer games - with a single node supporting traffic from thousands of connected players - using simple open-source software running at very low cost.
+Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project is an example of how you can build scalable and reliable backend infrastructure, with support for large scale multiplayer games - with a single node supporting traffic from thousands of connected players - using simple open-source software running at very low cost.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
