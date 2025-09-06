@@ -8,7 +8,7 @@ Some of the open source software I've created has been used in products and serv
 
 Most of my open source work is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google - all sponsored work should be acknowledged in the relevant respository.
 
-Most of the projects on GitHub are small side projects I work on for fun, and sometimes to inform my work.
+Most of my personal projects on GitHub are small side projects I work on for fun, and sometimes to inform my work.
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>. I occasionally post on [Medium](https://iaincollins.medium.com/).
 
@@ -19,7 +19,7 @@ These are some of the projects I've worked on recently; many of these are video 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
 <p align="center">
- <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/ef59f45d-9c56-41cb-b15e-2b90031e6c08" width="800"></a>
+ <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/eedf01b2-29b1-4838-b6e5-fab1a40df106" width="800"></a>
 </p>
 
 This sample features three distinct environments - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation each time. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries.
@@ -27,7 +27,7 @@ This sample features three distinct environments - a forest, a desert and a froz
 ## 📈 [Ardent Insight](https://ardent-insight.com)
 
 <p align="center">
- <a href="https://ardent-insight.com"><img src="https://github.com/user-attachments/assets/3003e1f1-4174-42ae-9869-61198bf1e7de" width="800"></a>
+ <a href="https://ardent-insight.com"><img src="https://github.com/user-attachments/assets/058d42ed-da42-4737-97b2-f782c0f983e4" width="800"></a>
 </p>
 
 Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in game account using OAuth.
