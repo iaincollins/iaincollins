@@ -22,7 +22,7 @@ These are some of the projects I've worked on recently; many of these are video 
  <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/eedf01b2-29b1-4838-b6e5-fab1a40df106" width="800"></a>
 </p>
 
-This sample features three distinct environments - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation each time. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries.
+This sample features three distinct environments - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries and reusable components leveraging features like geometry instancing and GPU shaders.
 
 ## 📈 [Ardent Insight](https://ardent-insight.com)
 
@@ -30,9 +30,9 @@ This sample features three distinct environments - a forest, a desert and a froz
  <a href="https://ardent-insight.com"><img src="https://github.com/user-attachments/assets/971a4ced-5b4a-4fbd-86be-11f739422081" width="800"></a>
 </p>
 
-Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in game account using OAuth.
+Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in-game account using OAuth.
 
-Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project demonstrates is an example of how you can build scalable and reliable backend infrastructure, with support for large scale multiplayer games - with traffic from thousands of players - using simple open-source software running at very low cost.
+Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project demonstrates is an example of how you can build scalable and reliable backend infrastructure, with support for large scale multiplayer games - with a single node supporting traffic from thousands of connected players - using simple open-source software running at very low cost.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
