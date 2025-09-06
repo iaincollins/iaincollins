@@ -1,14 +1,14 @@
 # ℹ️ About me
 
-I'm based in Edinburgh, Scotland - although I've spend almost half my life, and most of my career, in London, England. I work as a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems like authentication, storage, and socio-competitive services and SDKs.
+My background is in software and systems engineering. I live in Edinburgh, Scotland; although I’ve spent most of my career - and almost half my life - living and working in London, England. I'm a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems like authentication, storage, and socio-competitive services and SDKs used by thousands of production games on all major platforms.
 
-For 25 years, I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects.
+For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects.
 
-Open Source software I've created has been used in products and services a wide range of organisations including IBM, ChatGPT, Unity and by NGO's like Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of other projects.
+Some of the open source software I've created has been used in products and services by a wide range of organisations including IBM, ChatGPT, Unity as well as to support projects from Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
 
-Most of the work is non-commercial in nature but some of the work has been supported by smaller grants from government departments and NGOs and others from larger grants from organisations like Google.
+Most of my open source work is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google - all sponsored work should be acknowledged in the relevant respository.
 
-These days most of my repos are small side projects I work on for fun - and sometimes to inform my work.
+Most of the projects on GitHub are small side projects I work on for fun, and sometimes to inform my work.
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>. I occasionally post on [Medium](https://iaincollins.medium.com/).
 
