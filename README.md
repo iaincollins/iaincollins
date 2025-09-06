@@ -27,7 +27,7 @@ This sample features three distinct environments - a forest, a desert and a froz
 ## 📈 [Ardent Insight](https://ardent-insight.com)
 
 <p align="center">
- <a href="https://ardent-insight.com"><img src="https://github.com/user-attachments/assets/058d42ed-da42-4737-97b2-f782c0f983e4" width="800"></a>
+ <a href="https://ardent-insight.com"><img src="https://github.com/user-attachments/assets/971a4ced-5b4a-4fbd-86be-11f739422081" width="800"></a>
 </p>
 
 Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in game account using OAuth.
