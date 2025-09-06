@@ -1,12 +1,20 @@
 # ℹ️ About me
 
-I'm based in Edinburgh, Scotland and work as an [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems, focusing on authentication, storage, and socio-competitive services and SDKs.
+I'm based in Edinburgh, Scotland - although I've spend almost half my life, and most of my career, in London, England. I work as a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems like authentication, storage, and socio-competitive services and SDKs.
+
+For 25 years, I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects.
+
+Open Source software I've created has been used in products and services a wide range of organisations including IBM, ChatGPT, Unity and by NGO's like Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of other projects.
+
+Most of the work is non-commercial in nature but some of the work has been supported by smaller grants from government departments and NGOs and others from larger grants from organisations like Google.
+
+These days most of my repos are small side projects I work on for fun - and sometimes to inform my work.
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>. I occasionally post on [Medium](https://iaincollins.medium.com/).
 
 # ✍️ Side projects
 
-For 25 years, I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects. These days, most of my projects are side projects I work on for fun.
+These are some of the projects I've worked on recently; many of these are video game and/or data centric.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
@@ -14,7 +22,7 @@ For 25 years, I've been creating, maintaining, and contributing to open-source s
  <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/ef59f45d-9c56-41cb-b15e-2b90031e6c08" width="800"></a>
 </p>
 
-This sample features three distinct environments explorable in a first-person view, generated at runtime using procedural generation. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the possibilities of these components and helped me better understand the practical issues relating to implementing a 3D environment using React Three Fibre and Three.js.
+This sample features three distinct environments - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation each time. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries.
 
 ## 📈 [Ardent Insight](https://ardent-insight.com)
 
@@ -24,7 +32,7 @@ This sample features three distinct environments explorable in a first-person vi
 
 Ardent Insight is a live-updating database encompassing over 150 million star systems and millions of commodity buy/sell orders in a galactic trade database. It handles a stream of real time game data driving millions of updates per day. The data originates from players of the game Elite Dangerous, collected from game clients and submitted to the Elite Dangerous Data Network (EDDN), using a process approved by the game's developer (Frontier Developments). Both the frontend and backend are built in JavaScript, with SQLite as the database, with a socket interface and a RESTful API. Players can also sign in securely with their in game account using OAuth.
 
-Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project demonstrates how developers can build scalable and reliable backend infrastructure, with support for large scale multiplayer games using open-source software running at very low cost.
+Beyond being a functional tool for players and developers, who are able to use the API in their own third-party add ons for the game, the project demonstrates is an example of how you can build scalable and reliable backend infrastructure, with support for large scale multiplayer games - with traffic from thousands of players - using simple open-source software running at very low cost.
 
 ## 🛰 [ICARUS Terminal](https://github.com/iaincollins/icarus)
 
