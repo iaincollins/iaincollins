@@ -52,7 +52,7 @@ I created NextAuth.js because there wasn't anything like it already and I wanted
 
 NextAuth.js is an open-source, community-supported project built around interoperability with open standards. It has expanded to support dozens of authentication providers and a wide range of SQL and NoSQL databases. Initially developed for React, and specifically Next.js (hence the name), it has been ported to other popular JS frameworks like Vue.js and Svelte, can be used with other non-JS systems, like Drupal.
 
-I created the project in 2018 and led it for about 5 years. To ensure its continued open-source, collaborative, and independent nature, I spun the it off into a dedicated organization with its own core team and I am longer actively involved, as I couldn't provide the level of support needed while also meeting my full time responsibilities.
+I created the project in 2018 and led it for about 5 years. To ensure its continued open-source, collaborative, and independent nature, I spun the it off into a dedicated organization with its own core team and I am no longer actively involved.
 
 ## 🎬 Mercury
 
