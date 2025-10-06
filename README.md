@@ -14,22 +14,22 @@ You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iainco
 
 # ✍️ Side projects
 
-These are some of the projects I've worked on recently; many of these are video game and/or data centric.
+Some of the projects I've worked on recently - many are video game and/or data centric.
 
-## 🧊 Web based isometric tile engine
+## 🧊 Web based isometric game engine
 
 <p align="center">
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/95a8aa66-d285-46b7-901d-e1baa29afaba" width="800"></a>
+ <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/623181b6-240f-442b-a25f-842dccdaf52a" width="800"></a>
 </p>
 
-To support a couple of games I'm working on, I've been working a web based isometric tile engine, with support for tiles of arbitrary hights. 
+To support a couple of games I'm working on, I've been working a web based isometric tile engine, with support for complex maps with tiles of arbitrary hights. 
 It also supports dimetric projection - i.e. it's possible to tilt the camera to view world at any angle from top-down to side-on.
 
-The terrain and the tiles are procedurally generated, although pre-rendered textures can also be used. Using proceedural generation for terrain works well for runtime blending of vertexes, allowing for more richer and more stylised apperances and dynamic visual effects, and allows for dynamic zooming and tilting of the camera.
+The terrain and the tiles are procedurally generated, although pre-rendered textures can also be used. Using proceedural generation for terrain works well for runtime blending of vertexes, allowing for more complex transitions and more stylised apperances and dynamic visual effects. It also allows for dynamic zooming and tilting of the camera.
 
-The rendering in this preview version is still unoptimised, but performance is reasonable for moderately sized maps. It impliemented in ECMAScript (plain JavaScript) that draws on a 2D HTML canvas to give the impression of a 2.5D environment.
+The rendering in this preview version is unoptimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (plain JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It self contained; it does not use any JavaScript libraries or frameworks.
 
-The file size is around 40 KB, around 2-3k LoC, and it has no external dependancies - it does not use any libraries.
+The file size is around 40 KB (about 2-3k LoC). 
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
