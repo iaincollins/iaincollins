@@ -1,6 +1,6 @@
 # ℹ️ About me
 
-My background is in software and systems engineering. I live in Edinburgh, Scotland; although I’ve spent most of my career - and almost half my life - living and working in London, England. I'm a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems like authentication, storage, and socio-competitive services and SDKs used by thousands of production games on all major platforms.
+My background is in software and systems engineering. I live in Edinburgh, Scotland and I work as a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major platforms.
 
 For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects.
 
@@ -16,20 +16,17 @@ You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iainco
 
 Some of the projects I've worked on recently - many are video game and/or data centric.
 
-## 🧊 Web based isometric game engine
+## 🧊 [Web based isometric game engine](https://microstate.neocities.org)
 
 <p align="center">
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/623181b6-240f-442b-a25f-842dccdaf52a" width="800"></a>
+ <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/8fea9acf-b6dd-457f-bf41-d8d06652e6ac" width="800"></a>
 </p>
 
-To support a couple of games I'm working on, I've been working a web based isometric tile engine, with support for complex maps with tiles of arbitrary hights. 
-It also supports dimetric projection - i.e. it's possible to tilt the camera to view world at any angle from top-down to side-on.
+To support a couple of fun side projects, I've been working a web based isometric tile engine. As well as supporting common use cases, like simple isometric terrain and dungeon maps with fixed height / pre-rendered tiles, it also supports complex maps with procedurally generated, dynamically rendered tiles of arbitrary heights and dimensions, with quadrilateral shading.
 
-The terrain and the tiles are procedurally generated, although pre-rendered textures can also be used. Using proceedural generation for terrain works well for runtime blending of vertexes, allowing for more complex transitions and more stylised apperances and dynamic visual effects. It also allows for dynamic zooming and tilting of the camera.
+Using dynamic generation allows for a high level of variation in objects in the world and for runtime blending of tile vertices, making it possible to achive a range of rendering effects, including transitions in height and/or color between tiles. It also allows for dynamic zooming and tilting of the camera, high resolution graphics on any display and dynamic dimetric projection - it's possible to tilt the camera to view the world at any angle from top-down to side-on at runtime.
 
-The rendering in this preview version is unoptimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (plain JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It self contained; it does not use any JavaScript libraries or frameworks.
-
-The file size is around 40 KB (about 2-3k LoC). 
+The rendering in this preview version is only modestly optimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (vanilla JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It is fully self contained - it does not use any JavaScript libraries or frameworks.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
