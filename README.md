@@ -10,7 +10,11 @@ For over 25 years I've been creating, maintaining, and contributing to open-sour
 
 The majority of work on open source is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all  work that has been sponsored should be acknowledged in the relevant respository or attatched to the relevant organistation.</i>
 
-You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>. I occasionally post on [Medium](https://iaincollins.medium.com/).
+### Links
+
+* Mastodon: <a rel="me" href="https://mastodon.social/@iaincollins">mastodon.social/@iaincollins</a>
+* LinkedIn: [linkedin.com/in/iaincollins](https://www.linkedin.com/in/iaincollins/)
+* Medium: [iaincollins.medium.com](https://iaincollins.medium.com/)
 
 # ✍️ Side projects
 
