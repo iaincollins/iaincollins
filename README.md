@@ -1,14 +1,14 @@
-# ℹ️ About me
+# 🧔‍♂️ Personal profile
 
-My background is in software and systems engineering. I live in Edinburgh, Scotland and I work as a [software engineering manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) leading work on game backend systems like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major platforms.
+I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and I work as an Associate Technical Director at the game development studio [Scopely](https://scopely.com).
 
-For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects.
+Prior to joining Scopely in 2025, I worked as an [Engineering Manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) on Game Backend running services like like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
 
-Some of the open source software I've created has been used in products and services by a wide range of organisations including IBM, ChatGPT, Unity as well as to support projects from Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
+For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun, and sometimes to inform my work.
 
-Most of my open source work is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google - all sponsored work should be acknowledged in the relevant respository.
+<i>Some of the open source software I've created has been used in products and services by a wide range of organisations including IBM, ChatGPT, Unity as well as to support projects from Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
 
-Most of my personal projects on GitHub are small side projects I work on for fun, and sometimes to inform my work.
+The majority of work on open source is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all  work that has been sponsored should be acknowledged in the relevant respository or attatched to the relevant organistation.</i>
 
 You can find me on Mastodon as <a rel="me" href="https://mastodon.social/@iaincollins">@iaincollins</a>. I occasionally post on [Medium](https://iaincollins.medium.com/).
 
