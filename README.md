@@ -1,14 +1,14 @@
 # 🧔‍♂️ Personal profile
 
-I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and I work as an Associate Technical Director at the game development studio [Scopely](https://scopely.com).
+I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and work as an Associate Technical Director at the game studio [Scopely](https://scopely.com).
 
-Prior to joining Scopely in 2025, I worked as an [Engineering Manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) on Game Backend running services like like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
+Prior to joining Scopely, I was an [Engineering Manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) on Game Backend running services like like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
 
-For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun, and sometimes to inform my work.
+For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun and sometimes to inform my work.
 
-<i>Some of the open source software I've created has been used in products and services by a wide range of organisations including IBM, ChatGPT, Unity as well as to support projects from Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
+<i>Some of the free open source software I've created has been used in products and services from a wide range of organisations including IBM, ChatGPT, Unity as well and by organisations including Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
 
-The majority of work on open source is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all  work that has been sponsored should be acknowledged in the relevant respository or attatched to the relevant organistation.</i>
+The majority of my work on open source is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all sponsored work should have acknowledgement in the relevant respository or attatched to the relevant organistation.</i>
 
 ### Links
 
@@ -20,17 +20,17 @@ The majority of work on open source is non-commercial in nature but some of it h
 
 Some of the projects I've worked on recently - many are video game and/or data centric.
 
-## 🧊 [Web based isometric game engine](https://microstate.neocities.org)
+## 🧊 [Web based isometric terrain engine](https://microstate.neocities.org)
 
 <p align="center">
  <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/8fea9acf-b6dd-457f-bf41-d8d06652e6ac" width="800"></a>
 </p>
 
-To support a couple of fun side projects, I've been working a web based isometric tile engine. As well as supporting common use cases, like simple isometric terrain and dungeon maps with fixed height / pre-rendered tiles, it also supports complex maps with procedurally generated, dynamically rendered tiles of arbitrary heights and dimensions, with quadrilateral shading.
+To support a couple of hobby projects, I've been working a web based isometric tile engine. As well as supporting more typical use cases, like simple isometric terrain and dungeon maps with fixed height / pre-rendered tiles, it also supports complex maps with procedurally generated, dynamically rendered tiles of arbitrary heights and dimensions, with quadrilateral shading.
 
 Using dynamic generation allows for a high level of variation in objects in the world and for runtime blending of tile vertices, making it possible to achive a range of rendering effects, including transitions in height and/or color between tiles. It also allows for dynamic zooming and tilting of the camera, high resolution graphics on any display and dynamic dimetric projection - it's possible to tilt the camera to view the world at any angle from top-down to side-on at runtime.
 
-The rendering in this preview version is only modestly optimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (vanilla JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It is fully self contained - it does not use any JavaScript libraries or frameworks.
+The rendering in this preview version isn't particularly optimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (vanilla JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It is fully self contained - it does not use any JavaScript libraries or frameworks.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
@@ -38,7 +38,7 @@ The rendering in this preview version is only modestly optimised, but performanc
  <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/eedf01b2-29b1-4838-b6e5-fab1a40df106" width="800"></a>
 </p>
 
-This sample features three distinct environments - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL), this unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries and reusable components leveraging features like geometry instancing and GPU shaders.
+This sample features three distinct environments at different times of day - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL). This unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries and reusable components leveraging features like geometry instancing and GPU shaders.
 
 ## 📈 [Ardent Insight](https://ardent-insight.com)
 
