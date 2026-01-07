@@ -1,8 +1,10 @@
-# 🧔‍♂️ Personal profile
+# 🧔 Personal profile
 
-I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and work as an Associate Technical Director at the game studio [Scopely](https://scopely.com).
+I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and work as an [Associate Technical Director](https://www.linkedin.com/in/iaincollins) at the game studio [Scopely](https://scopely.com).
 
-Prior to joining Scopely, I was an [Engineering Manager](https://www.linkedin.com/in/iaincollins) at [Unity](https://unity.com/) on Game Backend running services like like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
+Prior to joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services like like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
+
+Before that, I worked at various media and telecoms organisations - The Economist, BBC News, Sky and others - on a wide range of platforms (web, desktop, mobile, server and device software) and ran a small company, with work on games exclusively as a hobby - something I've been doing since the late 80s, first with the Intelvision BASIC unit, then Amstrad PCW and then Macintosh.
 
 For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun and sometimes to inform my work.
 
@@ -23,14 +25,15 @@ Some of the projects I've worked on recently - many are video game and/or data c
 ## 🧊 [Web based isometric terrain engine](https://microstate.neocities.org)
 
 <p align="center">
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/8fea9acf-b6dd-457f-bf41-d8d06652e6ac" width="800"></a>
+ <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/cb79a645-b432-47bd-b85a-1cc61f150b8b" height="300"></a>
+  <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/b0f9add0-7fe6-480f-9fe2-7e11053e7f65" height="300"></a>
 </p>
 
 To support a couple of hobby projects, I've been working a web based isometric tile engine. As well as supporting more typical use cases, like simple isometric terrain and dungeon maps with fixed height / pre-rendered tiles, it also supports complex maps with procedurally generated, dynamically rendered tiles of arbitrary heights and dimensions, with quadrilateral shading.
 
 Using dynamic generation allows for a high level of variation in objects in the world and for runtime blending of tile vertices, making it possible to achive a range of rendering effects, including transitions in height and/or color between tiles. It also allows for dynamic zooming and tilting of the camera, high resolution graphics on any display and dynamic dimetric projection - it's possible to tilt the camera to view the world at any angle from top-down to side-on at runtime.
 
-The rendering in this preview version isn't particularly optimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (vanilla JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It is fully self contained - it does not use any JavaScript libraries or frameworks.
+The rendering in this preview version isn't particularly optimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (vanilla JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It is fully self contained - it does not use any JavaScript libraries or frameworks - and the total size is about 30 KB, including art assets.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
