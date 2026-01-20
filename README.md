@@ -2,15 +2,15 @@
 
 I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and work as an [Associate Technical Director](https://www.linkedin.com/in/iaincollins) at the game studio [Scopely](https://scopely.com).
 
-Prior to joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services like like authentication, storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
+Prior to joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services including authentication, player and game state storage, and socio-competitive services and SDKs, used by thousands of production games on all major mobile, console and desktop platforms.
 
-Before that, I worked at various media and telecoms organisations - The Economist, BBC News, Sky and others - on a wide range of platforms (web, desktop, mobile, server and device software) and ran a small company, with work on games exclusively as a hobby - something I've been doing since the late 80s, first with the Intelvision BASIC unit, then Amstrad PCW and then Macintosh.
+Before that, I worked at various media and telecoms organisations - The Economist, BBC News, Sky and others - on a wide range of platforms (web, desktop, mobile, server and device software) and ran a small company, with work on games exclusively as a hobby - something I've been doing since the late 80s, first with the Intellivision BASIC unit, then Amstrad PCW and then Macintosh.
 
 For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from small libraries to popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun and sometimes to inform my work.
 
-<i>Some of the free open source software I've created has been used in products and services from a wide range of organisations including IBM, ChatGPT, Unity as well and by organisations including Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
+<i>Some of the free open source software I've created has been used in products and services from a wide range of organisations including IBM, ChatGPT, Unity as well as by organisations including Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
 
-The majority of my work on open source is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all sponsored work should have acknowledgement in the relevant respository or attatched to the relevant organistation.</i>
+The majority of my work on open source is non-commercial in nature but some of it has been supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all sponsored work should have acknowledgement in the relevant repository and/or attached to the relevant organisation.</i>
 
 ### Links
 
