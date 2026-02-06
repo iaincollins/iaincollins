@@ -25,14 +25,18 @@ Some of the projects I've worked on recently - many are video game and/or data c
 ## 🧊 [Web based isometric terrain engine](https://microstate.neocities.org)
 
 <p align="center">
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/c64dd1a3-1c28-42a3-8bc6-d55b7083269b" height="800"></a>
+ <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/995edd3b-ff42-4ee1-a83f-275f51e29577" height="800"></a>
 </p>
 
-To support a couple of hobby projects, I've been working a web based isometric tile engine. As well as supporting more typical use cases, like simple isometric terrain and dungeon maps with fixed height / pre-rendered tiles, it also supports complex maps with entirely procedurally generated graphics (terrain, buildings, roads, trees), tiles of arbitrary heights and dimensions, with quadrilateral shading.
+I've been developing a web-based isometric tile engine as a personal project to support a couple of hobby projects.
 
-Using dynamic generation allows for a high level of variation in objects in the world and for runtime blending of tile vertices, making it possible to achive a range of rendering effects, including transitions in height and/or color between tiles. It also allows for dynamic zooming and tilting of the camera, high resolution graphics on any display and dynamic dimetric projection.
+The engine goes beyond standard capabilities like simple isometric terrain and fixed-height dungeon maps using pre-rendered tiles (bitmaps and vector art). It supports highly complex maps featuring entirely procedurally generated graphics (terrain, buildings, roads, trees), tiles of arbitrary heights and dimensions, and advanced quadrilateral shading.
 
-The rendering in this preview version isn't particularly optimised, but performance is reasonable for moderately sized maps. It is implemented in ECMAScript (vanilla JavaScript, no transpilation) and draws on a 2D HTML canvas to give the impression of a 2.5D environment. It is fully self contained in a single HTML file with a compressed <script> payload, it does not use any JavaScript libraries or frameworks.
+The engine maximizes performance across mobile, tablet, and desktop devices by utilizing hardware-accelerated 2D Canvas with a combination of direct drawing and batch rendering. The use of procedurally generated art results in an exceptionally small payload of about 50 KB over the wire.
+
+Dynamic generation allows for a high degree of variation in world objects and enables runtime blending of tile vertices. This makes possible a range of rendering effects, including smooth transitions in height and/or color between adjacent tiles. Furthermore, it supports dynamic zooming and tilting of the camera (dynamic dimetric projection) and can render at native resolution on any display.
+
+Implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is highly interactive and "playable." The entire project is self-contained within a single HTML file, including a compressed <script> payload.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
