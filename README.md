@@ -30,13 +30,13 @@ Some of the projects I've worked on recently - many are video game and/or data c
 
 I've been developing a web-based isometric tile engine as a personal project to support a couple of hobby projects.
 
-The engine goes beyond standard capabilities like simple isometric terrain and fixed-height dungeon maps using pre-rendered tiles (bitmaps and vector art). It supports highly complex maps featuring entirely procedurally generated graphics (terrain, buildings, roads, trees), tiles of arbitrary heights and dimensions, and advanced quadrilateral shading.
+As well as simple flat and fixed-elevation terrain and dungeon maps built using pre-rendered tiles (either bitmaps and vector art), it supports complex maps with dynamic terrain and entirely procedurally generated worlds (terrain, buildings, roads, trees) - and allows tiles of arbitrary heights and transformations, with configurable degrees of quadrilateral shading.
 
-The engine maximizes performance across mobile, tablet, and desktop devices by utilizing hardware-accelerated 2D Canvas with a combination of direct drawing and batch rendering. The use of procedurally generated art results in an exceptionally small payload of about 50 KB over the wire.
+The engine maximizes performance across mobile, tablet, and desktop devices by using a hardware-accelerated 2D Canvas and a combination of direct drawing and batch rendering. The use of procedurally generated art results in a compact payload of about 50 KB over the wire.
 
-Dynamic generation allows for a high degree of variation in world objects and enables runtime blending of tile vertices. This makes possible a range of rendering effects, including smooth transitions in height and/or color between adjacent tiles. Furthermore, it supports dynamic zooming and tilting of the camera (dynamic dimetric projection) and can render at native resolution on any display.
+Dynamic generation allows for a high degree of variation in world objects and enables runtime blending of tile vertices and visual effects like corner rounding. This makes possible a range of rendering effects, including smooth transitions in height and/or color between adjacent tiles. It also supports dynamic zooming and tilting of the camera (dynamic dimetric projection) and can support rendering native resolution on any display - depending on the device hardware.
 
-Implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is highly interactive and "playable." The entire project is self-contained within a single HTML file, including a compressed <script> payload.
+MicroState is implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a purely 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is highly interactive and "playable." The entire project is self-contained within a single HTML file, including a compressed <script> payload.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
