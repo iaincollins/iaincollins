@@ -2,11 +2,11 @@
 
 I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and work as an [Associate Technical Director](https://www.linkedin.com/in/iaincollins) at the game studio [Scopely](https://scopely.com).
 
-Prior to joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services including authentication, player and game state storage, and socio-competitive services and SDKs, used by thousands of games across all mobile, console and desktop platforms.
+Before joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services including authentication, player and game state storage, and socio-competitive services and SDKs, used by thousands of games across all mobile, console and desktop platforms.
 
-Before joining Unity, I worked at various media and telecoms organisations - The Economist, BBC News, Sky and others - on a wide range of platforms (web, desktop, mobile, server and device software) and ran a small company, with work on games exclusively as a hobby - something I've been doing since the late 80s, first with BASIC for Intellivision, then Amstrad PCW and then Macintosh.
+I've worked at various media and telecoms organisations - The Economist, BBC News, Sky and others - on a wide range of platforms (web, desktop, mobile, server and device software) and ran a small company, with work on games exclusively as a hobby - something I've been doing since the late 80s, first with BASIC for Intellivision, then Amstrad PCW and then Macintosh.
 
-For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from hacks to small libraries, popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun or to inform my work.
+For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from hacks to small libraries, popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun, and in some cases to inform my work.
 
 <i>Some of the free open source software I've created has been used in products and services from organisations including IBM, ChatGPT, Unity as well as by organisations including Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
 
@@ -25,18 +25,18 @@ Some of the projects I've worked on recently - many are video game and/or data c
 ## 🧊 [Web based isometric terrain engine](https://microstate.neocities.org)
 
 <p align="center">
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/995edd3b-ff42-4ee1-a83f-275f51e29577" height="800"></a>
+ <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/67c10c26-0913-4fb8-87b1-e62d4d859901" width="800"></a>
 </p>
 
-I've been developing a web-based isometric tile engine as a personal project to support a couple of hobby projects.
+I've been developing a standalone web-based isometric tile engine from scratch as a personal project.
 
 As well as simple flat and fixed-elevation terrain and dungeon maps built using pre-rendered tiles (either bitmaps and vector art), it supports complex maps with dynamic terrain and entirely procedurally generated worlds (terrain, buildings, roads, trees) - and allows tiles of arbitrary heights and transformations, with configurable degrees of quadrilateral shading.
 
-The engine maximizes performance across mobile, tablet, and desktop devices by using a hardware-accelerated 2D Canvas and a combination of direct drawing and batch rendering. The use of procedurally generated art results in a compact payload of about 50 KB over the wire.
+The engine tries to deliver optimal performance across mobile, tablet, and desktop devices using a hardware-accelerated 2D Canvas and a combination of direct drawing and batch rendering. The use of procedurally generated art results in a compact payload of under 100 KB, packed into a single self-contained HTML file.
 
 Dynamic generation allows for a high degree of variation in world objects and enables runtime blending of tile vertices and visual effects like corner rounding. This makes possible a range of rendering effects, including smooth transitions in height and/or color between adjacent tiles. It also supports dynamic zooming and tilting of the camera (dynamic dimetric projection) and can support rendering native resolution on any display - depending on the device hardware.
 
-MicroState is implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a purely 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is highly interactive and "playable." The entire project is self-contained within a single HTML file, including a compressed <script> payload.
+MicroState is implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a purely 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is interactive and "playable" - try building out a city and attempting to maximise the satisfaction of the inhabiants!
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
