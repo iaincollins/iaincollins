@@ -24,8 +24,6 @@ Some of the projects I've worked on recently - many are video game and/or data c
 
 ## 🧊 [Web based isometric terrain engine and city simulator](https://microstate.neocities.org)
 
-<p align="center">
-  <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/35cb82f7-801a-48f2-9a40-75391b1cdfa3" width="330"></a>
  <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/9ab8eb39-55c8-4494-84ea-f5f65635470d" width="330"></a>
  <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/3cc4ea27-d11f-46f7-9678-7c9e0c1cd647" width="330"></a>
 </p>
