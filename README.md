@@ -2,15 +2,11 @@
 
 I live in [Edinburgh, Scotland](https://www.google.com/maps/place/Edinburgh/@55.9412083,-3.2053387,12z/data=!3m1!4b1!4m6!3m5!1s0x4887b800a5982623:0x64f2147b7ce71727!8m2!3d55.953252!4d-3.188267!16zL20vMDJtNzc?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D) and work as an [Associate Technical Director](https://www.linkedin.com/in/iaincollins) at the game studio [Scopely](https://scopely.com).
 
-Before joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services including authentication, player and game state storage, and socio-competitive services and SDKs, used by thousands of games across all mobile, console and desktop platforms.
+Before joining Scopely, I was an Engineering Manager at [Unity](https://unity.com/) on Game Backend running services including authentication, player and game state storage, and socio-competitive services and SDKs, used by thousands of games across all mobile, console and desktop platforms. Before that The Economist, BBC News, Sky and other network service providers since the mid 90's.
 
-I've worked at various media and telecoms organisations - The Economist, BBC News, Sky and others - on a wide range of platforms (web, desktop, mobile, server and device software) and ran a small company, with work on games exclusively as a hobby - something I've been doing since the late 80s, first with BASIC for Intellivision, then Amstrad PCW and then Macintosh.
+For over 25 years I've been creating, maintaining, and contributing to open-source software on a wide range of platforms (web, desktop, mobile, server and device software), ranging from hacks to small libraries, popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun, and in some cases to inform my work.
 
-For over 25 years I've been creating, maintaining, and contributing to open-source software, ranging from hacks to small libraries, popular frameworks, desktop and server applications, and civic tech projects. Most of my personal projects on GitHub are small side projects I work on for fun, and in some cases to inform my work.
-
-<i>Some of the free open source software I've created has been used in products and services from organisations including IBM, ChatGPT, Unity as well as by organisations including Amnesty International, Friends of the Earth, the ISU (International Space University) and in thousands of open source projects.
-
-The majority of my work on open source is non-commercial in nature but some of my work in the past was supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all sponsored work should have acknowledgement in the relevant repository and/or attached to the relevant organisation.</i>
+<i>Some of the free open source software I've created has been used in products and services from organisations including IBM, ChatGPT, Unity as well as by organisations including Amnesty International, Friends of the Earth, the ISU (International Space University) and in tens of thousands of open source projects. The majority of my work on open source is non-commercial in nature but some of my work in the past was supported by funding from government departments and NGOs and others from larger grants from organisations like Google; all sponsored work should have acknowledgement in the relevant repository and/or attached to the relevant organisation.</i>
 
 ### Links
 
@@ -24,19 +20,20 @@ Some of the projects I've worked on recently - many are video game and/or data c
 
 ## 🧊 [Web based isometric terrain engine and city simulator](https://microstate.neocities.org)
 
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/9ab8eb39-55c8-4494-84ea-f5f65635470d" width="330"></a>
- <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/3cc4ea27-d11f-46f7-9678-7c9e0c1cd647" width="330"></a>
+<p>
+ <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/cce4b28e-c696-488b-bf14-b133dc194585" height="240"></a>
+  <a href="https://microstate.neocities.org"><img src="https://github.com/user-attachments/assets/9668d056-841d-4cb5-a27c-965724af133b" height="240"></a>
 </p>
 
-I've been developing a standalone web-based isometric tile engine from scratch as a personal project.
+A standalone web-based isometric tile engine from scratch.
 
 As well as simple flat and fixed-elevation terrain and dungeon maps built using pre-rendered tiles (either bitmaps and vector art), it supports complex maps with dynamic terrain and entirely procedurally generated worlds (terrain, buildings, roads, trees) - and allows tiles of arbitrary heights and transformations, with configurable degrees of quadrilateral shading.
 
-The engine tries to deliver optimal performance across mobile, tablet, and desktop devices using a hardware-accelerated 2D Canvas and a combination of direct drawing and batch rendering. The use of procedurally generated art results in a compact payload of under 100 KB, packed into a single self-contained HTML file.
+The engine tries to deliver optimal performance across mobile, tablet, and desktop devices using a hardware-accelerated 2D Canvas and a combination of direct drawing and batch rendering. The use of procedurally generated art results in a compact payload of ~100 KB in the form of a single self-contained HTML file with inline JS and CSS.
 
 Dynamic generation allows for a high degree of variation in world objects and enables runtime blending of tile vertices and visual effects like corner rounding. This makes possible a range of rendering effects, including smooth transitions in height and/or color between adjacent tiles. It also supports dynamic zooming and tilting of the camera (dynamic dimetric projection) and can support rendering native resolution on any display - depending on the device hardware.
 
-MicroState is implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a purely 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is interactive and "playable" - try building out a city and attempting to maximise the satisfaction of the inhabiants!
+MicroState is implemented entirely in vanilla ECMAScript (JavaScript) with no build-time or runtime dependencies or transpilation, the engine uses a purely 2D Canvas to create the illusion of a 2.5D environment. While still an early stage tech demo and a work in progress, it is interactive and "playable" - you can building out a city and attempting to maximise the rating / inhabiant satisfaction.
 
 ## 🎮 [Procedurally generated scenes using WebGL](https://explore.iaincollins.com)
 
@@ -44,7 +41,11 @@ MicroState is implemented entirely in vanilla ECMAScript (JavaScript) with no bu
  <a href="https://explore.iaincollins.com"><img src="https://github.com/user-attachments/assets/eedf01b2-29b1-4838-b6e5-fab1a40df106" width="800"></a>
 </p>
 
-This sample features three distinct environments at different times of day - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation. Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL). This unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries and reusable components leveraging features like geometry instancing and GPU shaders.
+Three distinct environments at different times of day - a forest, a desert and a frozen landscape - that you can travel between and explore in a first-person view, with a new map generated at runtime using procedural generation.
+
+Built with Next.js, React, and React Three Fibre (a wrapper for Three.js, which abstracts WebGL). This unconventional stack serves as a simple demo with player movement and physics interaction. It was an exercise to explore the practical issues of implementing an interactive 3D environment using common web libraries and reusable components leveraging features like geometry instancing and GPU shaders and scene composition through declarative markup.
+
+Note: This project was created few years ago; modern LLMs are now able to generate scenes like this through prompting alone.
 
 ## 📈 [Ardent Insight](https://ardent-insight.com)
 
@@ -70,11 +71,11 @@ ICARUS Terminal is a companion app/second screen for Elite: Dangerous, the lates
  <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="800"></a>
 </p>
 
-I created NextAuth.js because there wasn't anything like it already and I wanted adding authentication to new projects to be easier. It now has millions of downloads a month and become one of top 1,000 open-source projects on GitHub and in thousands of projects and used by millions people every day. 
+I created NextAuth.js in 2016 because there wasn't anything like it already and I wanted adding authentication to new projects to be easier. It now has millions of downloads a month and become one of top 1,000 open-source projects on GitHub (by usage) and used in thousands of projects and by millions of end users every day. 
 
 NextAuth.js is an open-source, community-supported project built around interoperability with open standards. It has expanded to support dozens of authentication providers and a wide range of SQL and NoSQL databases. Initially developed for React, and specifically Next.js (hence the name), it has been ported to other popular JS frameworks like Vue.js and Svelte, can be used with other non-JS systems, like Drupal.
 
-I created the project in 2018 and led it for about 5 years. To ensure its continued open-source, collaborative, and independent nature, I spun the it off into a dedicated organization with its own core team and I am no longer actively involved.
+I created the project and led it for about 5 years, eventually spinning the project off into a dedicated organization with its own core team. I am no longer actively involved as a maintainer.
 
 ## 🎬 Mercury
 
