@@ -71,7 +71,7 @@ ICARUS Terminal is a companion app/second screen for Elite: Dangerous, the lates
  <a href="https://next-auth.js.org"><img src="https://user-images.githubusercontent.com/595695/151672056-ba14691b-b260-4010-8b2a-d7429c339319.png" width="800"></a>
 </p>
 
-I created NextAuth.js in 2016 because there wasn't anything like it already and I wanted adding authentication to new projects to be easier. It now has millions of downloads a month and become one of top 1,000 open-source projects on GitHub (by usage) and used in thousands of projects and by millions of end users every day. 
+I created NextAuth.js in 2018 because there wasn't anything like it already and I wanted adding authentication to new projects to be easier. It now has millions of downloads a month and become one of top 1,000 open-source projects on GitHub (by usage) and used in thousands of projects and by millions of end users every day. 
 
 NextAuth.js is an open-source, community-supported project built around interoperability with open standards. It has expanded to support dozens of authentication providers and a wide range of SQL and NoSQL databases. Initially developed for React, and specifically Next.js (hence the name), it has been ported to other popular JS frameworks like Vue.js and Svelte, can be used with other non-JS systems, like Drupal.
 
